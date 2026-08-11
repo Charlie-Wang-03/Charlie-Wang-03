@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yichuan Wang
 
-<!--
-**Charlie-Wang-03/Charlie-Wang-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student in Applied Mathematics at Fudan University.
 
-Here are some ideas to get you started:
+My research interests focus on scientific machine learning and operator learning, particularly neural operators for partial differential equations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Neural Operators
+- Scientific Machine Learning
+- Deep Learning
+
+## Current Focus
+
+- Neural operator methods for PDEs
+- Reproducible scientific machine learning
+
+## Academic Profiles
+
+- ORCID: 0009-0009-3807-6901
+- OpenReview: https://openreview.net/profile?id=%7EYichuan_Wang7
