@@ -17,5 +17,5 @@ My research interests focus on scientific machine learning and operator learning
 
 ## Academic Profiles
 
-- ORCID: 0009-0009-3807-6901
-- OpenReview: https://openreview.net/profile?id=%7EYichuan_Wang7
+- [ORCID](https://orcid.org/0009-0009-3807-6901)
+- [OpenReview](https://openreview.net/profile?id=~Yichuan_Wang7)
