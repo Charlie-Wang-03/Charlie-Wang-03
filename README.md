@@ -19,3 +19,7 @@ My research interests focus on scientific machine learning and operator learning
 
 - [ORCID](https://orcid.org/0009-0009-3807-6901)
 - [OpenReview](https://openreview.net/profile?id=~Yichuan_Wang7)
+
+## Contact
+
+- [Email](mailto:YichuanCharlieWang@outlook.com)
