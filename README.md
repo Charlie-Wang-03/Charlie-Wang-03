@@ -8,7 +8,7 @@ My research interests focus on scientific machine learning and operator learning
 
 - Neural Operators
 - Scientific Machine Learning
-- Deep Learning
+- AI4Science
 
 ## Current Focus
 
