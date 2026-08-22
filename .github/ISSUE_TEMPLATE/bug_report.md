@@ -1,11 +1,9 @@
-# Bug Report
-
 ---
-
 name: Bug report
 about: Report an issue with repository content or configuration
-
 ---
+
+# Bug Report
 
 ## Description
 
