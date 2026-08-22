@@ -1,0 +1,8 @@
+default: true
+
+# Repository contains GitHub templates and profile documentation.
+# These rules are relaxed to keep maintenance practical.
+MD009: false
+MD013: false
+MD024: false
+MD041: false
