@@ -1,19 +1,48 @@
 # Yichuan Wang
 
-M.S. student in Applied Mathematics at Fudan University.
+**Researcher & builder at the intersection of scientific ML and AI systems.**
 
-My research interests focus on scientific machine learning and operator learning, particularly neural operators for partial differential equations.
+M.S. Student in Applied Mathematics at Fudan University.
 
-## Research Interests
+[English](README.md) · [简体中文](README.zh-CN.md)
 
-- Neural Operators
+I explore the intersection of mathematical modeling, scientific machine learning, and AI systems. My work combines research on learning-based approaches for physical systems with engineering of reliable AI tools and open-source projects.
+
+---
+
+## Featured Work
+
+> Selected projects and research tools will be highlighted here as they mature.
+
+- **Scientific Machine Learning** — Neural operators and learning-based methods for PDEs and physical systems.
+- **AI Systems & Agents** — AI-native workflows, automation tools, and developer-oriented systems.
+- **Open Source** — Reproducible scientific computing and practical engineering projects.
+
+---
+
+## Research & Engineering Focus
+
+### Research
+
 - Scientific Machine Learning
+- Neural Operators
 - AI4Science
+- Learning for Physical Systems
 
-## Current Focus
+### Engineering
 
-- Neural operator methods for PDEs
-- Reproducible scientific machine learning
+- AI Agents & Research Automation
+- LLM-powered Developer Tools
+- Scientific Computing Infrastructure
+- Open-source Software
+
+---
+
+## Selected Stack
+
+`Python` · `PyTorch` · `Linux` · `Git` · `SLURM` · `Scientific Computing` · `AI Agents`
+
+---
 
 ## Academic Profiles
 
@@ -21,5 +50,7 @@ My research interests focus on scientific machine learning and operator learning
 - [OpenReview](https://openreview.net/profile?id=~Yichuan_Wang7)
 
 ## Contact
+
+Open to research collaboration, open-source collaboration, and opportunities in AI / ML systems.
 
 - [Email](mailto:YichuanCharlieWang@outlook.com)
