@@ -1,46 +1,42 @@
 # Yichuan Wang
 
-**Researcher & builder at the intersection of scientific ML and AI systems.**
+**Applied Mathematics M.S. student exploring scientific ML and AI systems.**
 
-M.S. Student in Applied Mathematics at Fudan University.
+Fudan University · Applied Mathematics
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-I explore the intersection of mathematical modeling, scientific machine learning, and AI systems. My work combines research on learning-based approaches for physical systems with engineering of reliable AI tools and open-source projects.
+I am interested in building connections between mathematical modeling, scientific machine learning, and practical AI systems. My current work focuses on neural operators, learning-based methods for physical systems, and exploring AI-assisted research and engineering workflows.
 
 ---
 
-## Featured Work
-
-> Selected projects and research tools will be highlighted here as they mature.
-
-- **Scientific Machine Learning** — Neural operators and learning-based methods for PDEs and physical systems.
-- **AI Systems & Agents** — AI-native workflows, automation tools, and developer-oriented systems.
-- **Open Source** — Reproducible scientific computing and practical engineering projects.
-
----
-
-## Research & Engineering Focus
-
-### Research
+## Research Interests
 
 - Scientific Machine Learning
 - Neural Operators
 - AI4Science
-- Learning for Physical Systems
-
-### Engineering
-
-- AI Agents & Research Automation
-- LLM-powered Developer Tools
-- Scientific Computing Infrastructure
-- Open-source Software
+- Learning-based methods for physical systems
 
 ---
 
-## Selected Stack
+## Engineering Interests
 
-`Python` · `PyTorch` · `Linux` · `Git` · `SLURM` · `Scientific Computing` · `AI Agents`
+- AI Agents and research workflows
+- LLM-assisted developer tools
+- Scientific computing
+- Open-source software practices
+
+---
+
+## Selected Work
+
+Public projects and research code will be added here as they mature.
+
+---
+
+## Technical Stack
+
+`Python` · `PyTorch` · `Linux` · `Git` · `SLURM` · `Scientific Computing`
 
 ---
 
@@ -50,7 +46,5 @@ I explore the intersection of mathematical modeling, scientific machine learning
 - [OpenReview](https://openreview.net/profile?id=~Yichuan_Wang7)
 
 ## Contact
-
-Open to research collaboration, open-source collaboration, and opportunities in AI / ML systems.
 
 - [Email](mailto:YichuanCharlieWang@outlook.com)
