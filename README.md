@@ -49,26 +49,16 @@ Alongside research, I am gradually building open-source engineering experience t
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [Agentic Simulation Lab](https://github.com/Charlie-Wang-03/agentic-simulation-lab)
-
-**Agent-orchestrated, reproducible engineering simulation workflows with explicit physics validation.**
-
-A public lab for learning and building trustworthy automation around Ansys-based simulation workflows, with solver-derived evidence and structured validation.
-
-`Scientific Computing` · `AI Agents` · `Simulation` · `Reproducibility`
-
+  <h3><a href="https://github.com/Charlie-Wang-03/agentic-simulation-lab">Agentic Simulation Lab</a></h3>
+  <p><strong>Agent-orchestrated, reproducible engineering simulation workflows with explicit physics validation.</strong></p>
+  <p>A public lab for learning and building trustworthy automation around Ansys-based simulation workflows, with solver-derived evidence and structured validation.</p>
+  <p><code>Scientific Computing</code> · <code>AI Agents</code> · <code>Simulation</code> · <code>Reproducibility</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [Agentic Engineering Review](https://github.com/Charlie-Wang-03/agentic-engineering-review)
-
-**An evidence-first engineering review protocol for AI agents.**
-
-A public-preview protocol for reviewing software projects with applicability-aware scoring, explicit trade-offs, and evidence-backed findings. Reviews are read-only by default.
-
-`AI Agents` · `Engineering Review` · `Open Source` · `Evidence First`
-
+  <h3><a href="https://github.com/Charlie-Wang-03/agentic-engineering-review">Agentic Engineering Review</a></h3>
+  <p><strong>An evidence-first engineering review protocol for AI agents.</strong></p>
+  <p>A public-preview protocol for reviewing software projects with applicability-aware scoring, explicit trade-offs, and evidence-backed findings. Reviews are read-only by default.</p>
+  <p><code>AI Agents</code> · <code>Engineering Review</code> · <code>Open Source</code> · <code>Evidence First</code></p>
 </td>
 </tr>
 </table>
