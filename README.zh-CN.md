@@ -47,26 +47,16 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [Agentic Simulation Lab](https://github.com/Charlie-Wang-03/agentic-simulation-lab)
-
-**尝试把工程仿真整理成由 Agent 编排、可复现并带有明确物理验证的工作流。**
-
-这是一个围绕 Ansys 的公开实验型项目，重点不是替代求解器，而是把仿真过程、验证依据和结果证据组织得更清楚、更容易复现。仓库中包含真实求解器结果与结构化验证信息。
-
-`科学计算` · `AI Agent` · `工程仿真` · `可复现性`
-
+  <h3><a href="https://github.com/Charlie-Wang-03/agentic-simulation-lab">Agentic Simulation Lab</a></h3>
+  <p><strong>尝试把工程仿真整理成由 Agent 编排、可复现并带有明确物理验证的工作流。</strong></p>
+  <p>这是一个围绕 Ansys 的公开实验型项目，重点不是替代求解器，而是把仿真过程、验证依据和结果证据组织得更清楚、更容易复现。仓库中包含真实求解器结果与结构化验证信息。</p>
+  <p><code>科学计算</code> · <code>AI Agent</code> · <code>工程仿真</code> · <code>可复现性</code></p>
 </td>
 <td width="50%" valign="top">
-
-### [Agentic Engineering Review](https://github.com/Charlie-Wang-03/agentic-engineering-review)
-
-**一个强调“先看证据，再做判断”的 AI Agent 工程审查协议。**
-
-项目目前仍处于 public preview，尝试让 AI Agent 根据项目真实证据和实际适用性进行结构化审查，明确记录取舍与不确定性；默认只读，也不把评分包装成认证。
-
-`AI Agent` · `工程审查` · `开源方法论` · `Evidence First`
-
+  <h3><a href="https://github.com/Charlie-Wang-03/agentic-engineering-review">Agentic Engineering Review</a></h3>
+  <p><strong>一个强调“先看证据，再做判断”的 AI Agent 工程审查协议。</strong></p>
+  <p>项目目前仍处于 public preview，尝试让 AI Agent 根据项目真实证据和实际适用性进行结构化审查，明确记录取舍与不确定性；默认只读，也不把评分包装成认证。</p>
+  <p><code>AI Agent</code> · <code>工程审查</code> · <code>开源方法论</code> · <code>Evidence First</code></p>
 </td>
 </tr>
 </table>
