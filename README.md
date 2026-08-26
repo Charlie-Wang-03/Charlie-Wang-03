@@ -1,12 +1,12 @@
 # 👋 Yichuan Wang
 
-### **Applied Mathematics × Scientific ML × AI Systems**
+## Applied Mathematics × Scientific ML × AI Systems
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Neural+Operators+%26+Physical+Systems;AI-assisted+Research+Workflows;Open-source+Engineering" alt="Current interests" />
 </p>
 
-**M.S. in Applied Mathematics · Fudan University**
+M.S. in Applied Mathematics · Fudan University
 
 **English** · [简体中文](README.zh-CN.md)
 
