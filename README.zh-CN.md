@@ -1,12 +1,12 @@
 # 👋 Yichuan Wang
 
-### **应用数学 × 科学机器学习 × AI 系统**
+## 应用数学 × 科学机器学习 × AI 系统
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Neural+Operators+%26+Physical+Systems;AI-assisted+Research+Workflows;Open-source+Engineering" alt="Current interests" />
 </p>
 
-**复旦大学 · 应用数学硕士研究生**
+复旦大学 · 应用数学硕士研究生
 
 [English](README.md) · **简体中文**
 
