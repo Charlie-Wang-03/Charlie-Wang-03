@@ -3,7 +3,7 @@
 ## Applied Mathematics × Scientific ML × AI Systems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Neural+Operators+%26+Physical+Systems;AI-assisted+Research+Workflows;Open-source+Engineering" alt="Current interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Current interests" />
 </p>
 
 M.S. in Applied Mathematics · Fudan University
@@ -16,18 +16,17 @@ M.S. in Applied Mathematics · Fudan University
 
 I am an Applied Mathematics M.S. student at Fudan University, interested in scientific machine learning and practical AI systems. My current work explores neural operators, learning-based methods for physical systems, and AI-assisted research and engineering workflows.
 
-Alongside research, I am gradually building open-source engineering experience through public projects and contributions.
+Alongside research, I maintain public projects and contribute upstream to open-source projects I use, gradually building experience in agent engineering, reproducible workflows, and scientific/developer tooling.
 
 ---
 
 ## 🧭 Current Focus
 
-| Area | Current interests |
+| Area | Exploring |
 | :--- | :--- |
 | **Scientific ML** | Neural operators, PDEs, and learning for physical systems |
-| **AI-assisted Research** | Reproducible workflows, research automation, and evidence-oriented tooling |
-| **Agentic Engineering** | AI agents, LLM-assisted developer tools, and engineering workflows |
-| **Open Source** | Building public tools and contributing to open-source projects |
+| **Agent Engineering** | Agent reliability, research agents, and developer tooling |
+| **Open Source** | Public projects, upstream contributions, and reproducible workflows |
 
 ---
 
@@ -44,7 +43,7 @@ Alongside research, I am gradually building open-source engineering experience t
 
 ---
 
-## 🚧 Projects & Experiments
+## 🚀 Selected Projects
 
 <table>
 <tr>
@@ -61,7 +60,34 @@ Alongside research, I am gradually building open-source engineering experience t
   <p><code>AI Agents</code> · <code>Engineering Review</code> · <code>Open Source</code> · <code>Evidence First</code></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
+  <p><strong>Compare the workspace instruction surfaces seen by DeepSeek Harness, Codex, and Claude Code.</strong></p>
+  <p>A small developer tool that makes cross-agent instruction discovery differences visible, with explicit observed/predicted evidence semantics. The v0.1 release is available on npm and GitHub Releases.</p>
+  <p><code>Developer Tools</code> · <code>Coding Agents</code> · <code>DeepSeek Harness</code> · <code>TypeScript</code></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/slurm-dashboard">SLURM Dashboard</a></h3>
+  <p><strong>A self-hosted, teaching-first dashboard for learning and using SLURM clusters.</strong></p>
+  <p>The interface shows the real command behind each data block, combining a practical cluster dashboard with a guided path through SLURM, GPU monitoring, and basic Linux/HPC workflows.</p>
+  <p><code>HPC</code> · <code>SLURM</code> · <code>FastAPI</code> · <code>Linux</code></p>
+</td>
+</tr>
 </table>
+
+---
+
+## 🤝 Open-source Contributions
+
+A few recent upstream contributions are listed below. Merged, open, and draft work are labeled explicitly.
+
+| Upstream project | Contribution | Status |
+| :--- | :--- | :---: |
+| **DeepMathLLM / Creative-Intelligence** | [Offline deterministic regression harness for the archive runner](https://github.com/DeepMathLLM/Creative-Intelligence/pull/1) | **Merged** |
+| **DeepMathLLM / Creative-Intelligence** | [Material fingerprinting for resumable workflow provenance](https://github.com/DeepMathLLM/Creative-Intelligence/pull/2) | **Merged** |
+| **DeepMathLLM / Creative-Intelligence** | [Deterministic Moonshine runtime integration and session-resume identity checks](https://github.com/DeepMathLLM/Creative-Intelligence/pull/3) | **Open** |
+| **DeepMathLLM / Moonshine** | [Crash-safe tool execution journaling and interrupted-turn recovery](https://github.com/DeepMathLLM/Moonshine/pull/4) | **Draft** |
 
 ---
 
