@@ -3,7 +3,7 @@
 ## 应用数学 × 科学机器学习 × AI 系统
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Neural+Operators+%26+Physical+Systems;AI-assisted+Research+Workflows;Open-source+Engineering" alt="Current interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Current interests" />
 </p>
 
 复旦大学 · 应用数学硕士研究生
@@ -14,18 +14,17 @@
 
 ## 👨‍💻 关于我
 
-我目前在复旦大学应用数学系攻读硕士，主要关注科学机器学习、神经算子以及面向物理系统的学习方法。除了科研，我也在持续尝试把 AI 工具融入日常研究和工程实践，并通过公开项目积累更扎实的开源协作经验。
+我目前在复旦大学应用数学系攻读硕士，主要关注科学机器学习、神经算子以及面向物理系统的学习方法。除了科研，我也在维护公开项目，并开始向自己长期使用的开源项目提交上游改进，逐步积累 Agent 工程、可复现工作流和科研开发工具方面的实践经验。
 
 ---
 
 ## 🧭 近期关注
 
-| 方向 | 目前主要在做什么 |
+| 方向 | 正在探索 |
 | :--- | :--- |
 | **科学机器学习** | 神经算子、PDE，以及面向物理系统的学习方法 |
-| **AI 辅助科研** | 可复现工作流、研究自动化和证据整理 |
-| **Agent 工程** | AI Agent、LLM 辅助开发与工程工作流 |
-| **开源实践** | 维护个人公开项目，并逐步参与更多开源协作 |
+| **Agent 工程** | Agent 可靠性、科研 Agent 与开发工具 |
+| **开源实践** | 公开项目、上游贡献与可复现工作流 |
 
 ---
 
@@ -42,7 +41,7 @@
 
 ---
 
-## 🚧 项目与探索
+## 🚀 部分公开项目
 
 <table>
 <tr>
@@ -59,7 +58,28 @@
   <p><code>AI Agent</code> · <code>工程审查</code> · <code>开源方法论</code> · <code>Evidence First</code></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
+  <p><strong>比较 DeepSeek Harness、Codex 与 Claude Code 在同一工作区中看到的指令来源。</strong></p>
+  <p>这是一个小型开发者工具，用于把不同 Coding Agent 的指令发现差异显式展示出来，并区分真实观测与规则推断。v0.1 已发布到 npm 和 GitHub Releases。</p>
+  <p><code>开发工具</code> · <code>Coding Agent</code> · <code>DeepSeek Harness</code> · <code>TypeScript</code></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/slurm-dashboard">SLURM Dashboard</a></h3>
+  <p><strong>一个面向 SLURM 初学者的自托管、教学优先型集群 Dashboard。</strong></p>
+  <p>界面会显示每块数据背后的真实命令，把集群状态查看与 SLURM、GPU 监控和基础 Linux/HPC 工作流学习结合起来。</p>
+  <p><code>HPC</code> · <code>SLURM</code> · <code>FastAPI</code> · <code>Linux</code></p>
+</td>
+</tr>
 </table>
+
+---
+
+## 🤝 开源贡献
+
+- **[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence)** — 主要参与离线/集成回归测试，以及可恢复工作流的输入溯源和 session 身份约束（[PR #1](https://github.com/DeepMathLLM/Creative-Intelligence/pull/1) 已合并，[#2](https://github.com/DeepMathLLM/Creative-Intelligence/pull/2) 已合并，[#3](https://github.com/DeepMathLLM/Creative-Intelligence/pull/3) 进行中）。
+- **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — 正在推进工具执行日志与中断恢复相关的可靠性改进（[PR #4](https://github.com/DeepMathLLM/Moonshine/pull/4) Draft）。
 
 ---
 
