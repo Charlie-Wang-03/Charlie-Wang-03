@@ -78,14 +78,8 @@
 
 ## 🤝 开源贡献
 
-下面列出近期已经合并或仍在推进的部分上游贡献，并明确标注当前状态。
-
-| 上游项目 | 贡献 | 状态 |
-| :--- | :--- | :---: |
-| **DeepMathLLM / Creative-Intelligence** | [为 archive runner 增加无需真实 LLM/API 的离线确定性回归测试](https://github.com/DeepMathLLM/Creative-Intelligence/pull/1) | **Merged** |
-| **DeepMathLLM / Creative-Intelligence** | [为可恢复工作流增加材料文件指纹，防止输入漂移](https://github.com/DeepMathLLM/Creative-Intelligence/pull/2) | **Merged** |
-| **DeepMathLLM / Creative-Intelligence** | [加入真实 Moonshine runtime 的确定性集成测试，并收紧 session 恢复身份约束](https://github.com/DeepMathLLM/Creative-Intelligence/pull/3) | **Open** |
-| **DeepMathLLM / Moonshine** | [加入崩溃安全的工具执行日志与中断恢复机制](https://github.com/DeepMathLLM/Moonshine/pull/4) | **Draft** |
+- **[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence)** — 主要参与离线/集成回归测试，以及可恢复工作流的输入溯源和 session 身份约束（[PR #1](https://github.com/DeepMathLLM/Creative-Intelligence/pull/1) 已合并，[#2](https://github.com/DeepMathLLM/Creative-Intelligence/pull/2) 已合并，[#3](https://github.com/DeepMathLLM/Creative-Intelligence/pull/3) 进行中）。
+- **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — 正在推进工具执行日志与中断恢复相关的可靠性改进（[PR #4](https://github.com/DeepMathLLM/Moonshine/pull/4) Draft）。
 
 ---
 
