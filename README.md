@@ -80,14 +80,8 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 
 ## 🤝 Open-source Contributions
 
-A few recent upstream contributions are listed below. Merged, open, and draft work are labeled explicitly.
-
-| Upstream project | Contribution | Status |
-| :--- | :--- | :---: |
-| **DeepMathLLM / Creative-Intelligence** | [Offline deterministic regression harness for the archive runner](https://github.com/DeepMathLLM/Creative-Intelligence/pull/1) | **Merged** |
-| **DeepMathLLM / Creative-Intelligence** | [Material fingerprinting for resumable workflow provenance](https://github.com/DeepMathLLM/Creative-Intelligence/pull/2) | **Merged** |
-| **DeepMathLLM / Creative-Intelligence** | [Deterministic Moonshine runtime integration and session-resume identity checks](https://github.com/DeepMathLLM/Creative-Intelligence/pull/3) | **Open** |
-| **DeepMathLLM / Moonshine** | [Crash-safe tool execution journaling and interrupted-turn recovery](https://github.com/DeepMathLLM/Moonshine/pull/4) | **Draft** |
+- **[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence)** — deterministic regression/integration coverage and resumable-workflow provenance/session-identity hardening ([PR #1](https://github.com/DeepMathLLM/Creative-Intelligence/pull/1) merged, [#2](https://github.com/DeepMathLLM/Creative-Intelligence/pull/2) merged, [#3](https://github.com/DeepMathLLM/Creative-Intelligence/pull/3) open).
+- **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — crash-safe tool execution journaling and interrupted-turn recovery ([PR #4](https://github.com/DeepMathLLM/Moonshine/pull/4) draft).
 
 ---
 
