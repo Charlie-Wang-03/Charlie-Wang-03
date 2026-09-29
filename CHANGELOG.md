@@ -17,6 +17,9 @@ All notable changes to this repository will be documented here.
 - AI4Math Chronicle and jev-testbench to the curated selected-project portfolio.
 - Current merged upstream contributions to OpenHands/software-agent-sdk and
   mcp-migrate.
+- `PROFILE.md` as a compact structured reference for stable public technical
+  facts and selected work.
+- `llms.txt` as a lightweight index to canonical profile and project sources.
 
 ### Changed
 
@@ -32,6 +35,10 @@ All notable changes to this repository will be documented here.
   contribution summary.
 - Added TypeScript to the visible toolset and refocused research interests to
   include AI for Science & Mathematics.
+- Clarified public profile prose with explicit domain terminology while
+  preserving the existing restrained positioning.
+- Extended maintenance guidance so structured public profile references remain
+  synchronized with the canonical README.
 
 ## 2026-08
 
