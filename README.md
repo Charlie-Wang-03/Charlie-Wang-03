@@ -3,10 +3,10 @@
 ## Applied Mathematics × Scientific ML × AI Systems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Current interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Scientific Machine Learning, AI4Science, AI4Math, agent reliability, reproducible research workflows, and open-source engineering" />
 </p>
 
-M.S. in Applied Mathematics · Fudan University
+M.S. student in Applied Mathematics · Fudan University
 
 **English** · [简体中文](README.zh-CN.md)
 
@@ -110,5 +110,5 @@ Open to conversations around research, open-source projects, and AI engineering.
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Charlie-Wang-03 GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Yichuan Wang, Charlie-Wang-03 GitHub profile summary" />
 </p>
