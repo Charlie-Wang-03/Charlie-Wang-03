@@ -25,6 +25,21 @@ The GitHub account can contain:
 
 Only a small, deliberately selected subset belongs on the public profile.
 
+## Public profile surfaces
+
+Maintain these surfaces as one coherent public record:
+
+- `README.md` — canonical English profile and primary human-facing overview.
+- `README.zh-CN.md` — natural Simplified Chinese companion.
+- `PROFILE.md` — compact structured reference for stable public technical
+  facts and selected work.
+- `llms.txt` — lightweight pointer index to canonical profile and project
+  sources.
+
+The README remains authoritative for current public positioning. The structured
+reference files should summarize or point to verified public facts rather than
+introduce new claims.
+
 ## What should remain stable
 
 The current profile design intentionally favors:
@@ -53,7 +68,9 @@ Check:
 - recent merged profile PRs;
 - Markdown CI;
 - current README links and widgets;
-- whether the English and Chinese versions still agree.
+- whether the English and Chinese versions still agree;
+- whether `PROFILE.md` and `llms.txt` still match the canonical README and
+  selected public work.
 
 ### 2. Inspect the public GitHub portfolio
 
