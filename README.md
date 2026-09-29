@@ -14,9 +14,9 @@ M.S. in Applied Mathematics · Fudan University
 
 ## 👨‍💻 About
 
-I am an Applied Mathematics M.S. student at Fudan University, interested in scientific machine learning and practical AI systems. My current work explores neural operators, learning-based methods for physical systems, and AI-assisted research and engineering workflows.
+I am an Applied Mathematics M.S. student at Fudan University. My current interests include Scientific Machine Learning (Scientific ML), neural operators and PDEs, AI for Science & Mathematics (AI4Science / AI4Math), and practical AI systems.
 
-Alongside research, I maintain public projects and contribute upstream to open-source projects, with current work spanning agent engineering, reproducible research workflows, and scientific/developer tooling.
+Alongside research, I maintain public projects and contribute upstream to open-source software, with current work spanning AI agents and agent reliability, reproducible research workflows, scientific computing, and developer tooling.
 
 ---
 
@@ -24,9 +24,9 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 
 | Area | Exploring |
 | :--- | :--- |
-| **Scientific ML** | Neural operators, PDEs, and learning for physical systems |
-| **Agent Engineering** | Agent reliability, research agents, and developer tooling |
-| **Open Source** | Public projects, upstream contributions, and reproducible workflows |
+| **Scientific ML** | Neural operators, PDEs, and scientific machine learning for physical systems |
+| **Agent Engineering** | AI agents, agent reliability, research agents, and developer tooling |
+| **Open Source** | Public projects, upstream contributions, and reproducible research workflows |
 
 ---
 
@@ -88,8 +88,8 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 ## 🔬 Research Interests
 
 - Scientific Machine Learning
-- Neural Operators & PDEs
-- AI for Science & Mathematics
+- Neural Operators & Partial Differential Equations (PDEs)
+- AI for Science & Mathematics (AI4Science / AI4Math)
 - Learning-based methods for physical systems
 
 ---
