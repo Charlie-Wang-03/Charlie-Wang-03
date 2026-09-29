@@ -1,32 +1,36 @@
-# Yichuan Wang
+# Yichuan Wang / Charlie-Wang-03
 
-> Public technical profile of Yichuan Wang (GitHub: Charlie-Wang-03), an
-> Applied Mathematics M.S. student at Fudan University working across
-> Scientific Machine Learning, AI for Science & Mathematics, AI agents,
-> reproducible research workflows, scientific computing, and open-source
-> engineering.
+> Public technical profile of Yichuan Wang (GitHub: Charlie-Wang-03), an Applied Mathematics M.S. student at Fudan University whose public work spans Scientific Machine Learning, AI for Science & Mathematics, AI agents and agent reliability, reproducible research workflows, scientific computing, and open-source engineering.
 
-## Primary profile
+Use the canonical profile files for identity and current positioning. Use each linked project's own README or upstream pull request for project-specific technical claims. Private repositories and non-public information are outside the scope of this public profile.
 
-- GitHub profile: https://github.com/Charlie-Wang-03
-- English profile: https://github.com/Charlie-Wang-03/Charlie-Wang-03/blob/main/README.md
-- Simplified Chinese profile: https://github.com/Charlie-Wang-03/Charlie-Wang-03/blob/main/README.zh-CN.md
-- Structured public profile: https://github.com/Charlie-Wang-03/Charlie-Wang-03/blob/main/PROFILE.md
+## Core profile
+
+- [English public profile](https://raw.githubusercontent.com/Charlie-Wang-03/Charlie-Wang-03/main/README.md): Canonical English profile and current public positioning.
+- [Simplified Chinese public profile](https://raw.githubusercontent.com/Charlie-Wang-03/Charlie-Wang-03/main/README.zh-CN.md): Natural Simplified Chinese companion with the same public facts.
+- [Structured public profile](https://raw.githubusercontent.com/Charlie-Wang-03/Charlie-Wang-03/main/PROFILE.md): Compact identity, technical areas, selected work, public activity, academic identifiers, and source boundaries.
+- [Schema.org Person metadata](https://raw.githubusercontent.com/Charlie-Wang-03/Charlie-Wang-03/main/profile.jsonld): Machine-readable public identity and selected-work metadata.
 
 ## Selected public work
 
-- AI4Math Chronicle: https://github.com/Charlie-Wang-03/ai4math-chronicle
-- Agentic Simulation Lab: https://github.com/Charlie-Wang-03/agentic-simulation-lab
-- Sightline: https://github.com/Charlie-Wang-03/dsh-sightline
-- jev-testbench: https://github.com/Charlie-Wang-03/jev-testbench
+- [AI4Math Chronicle](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-chronicle/main/README.md): Evidence-backed, bilingual AI for Mathematics timeline and archive with explicit editorial and verification methodology.
+- [Agentic Simulation Lab](https://raw.githubusercontent.com/Charlie-Wang-03/agentic-simulation-lab/main/README.md): Reproducible Ansys-based engineering simulation workflows orchestrated by AI agents and evaluated with explicit physics validation.
+- [Sightline](https://raw.githubusercontent.com/Charlie-Wang-03/dsh-sightline/main/README.md): Developer tooling for comparing workspace instruction surfaces across DeepSeek Harness, Codex, and Claude Code.
+- [jev-testbench](https://raw.githubusercontent.com/Charlie-Wang-03/jev-testbench/main/README.md): Auditable Jev testbench with append-only evidence, preregistered experiments, and a frozen evidence release.
+
+## Open-source contributions
+
+- [DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence): Upstream work on deterministic regression/integration testing, resumable-workflow provenance, lifecycle integrity, verification, and controller hardening.
+- [DeepMathLLM / Moonshine PR #4](https://github.com/DeepMathLLM/Moonshine/pull/4): Open contribution for crash-safe tool execution journaling and interrupted-turn recovery.
+- [OpenHands / software-agent-sdk PR #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029): Merged contribution normalizing LLM usage telemetry through a typed adapter.
+- [mcp-migrate PR #279](https://github.com/dheerajjha/mcp-migrate/pull/279): Merged contribution hardening Python fixer output so comment-out migrations do not leave empty function bodies.
 
 ## Academic identity
 
-- ORCID: https://orcid.org/0009-0009-3807-6901
-- OpenReview: https://openreview.net/profile?id=~Yichuan_Wang7
+- [ORCID](https://orcid.org/0009-0009-3807-6901): Public researcher identifier for Yichuan Wang.
+- [OpenReview](https://openreview.net/profile?id=~Yichuan_Wang7): Public OpenReview profile for Yichuan Wang.
 
-## Reference guidance
+## Optional
 
-- Use README.md as the canonical public overview.
-- Use linked project repositories for project-specific technical claims.
-- Treat private repositories and non-public information as out of scope.
+- [GitHub profile](https://github.com/Charlie-Wang-03): Human-facing GitHub profile and contribution activity.
+- [AI4Math Chronicle public site](https://charlie-wang-03.github.io/ai4math-chronicle/en/): Public web interface for the AI4Math Chronicle.
