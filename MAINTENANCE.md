@@ -33,8 +33,10 @@ Maintain these surfaces as one coherent public record:
 - `README.zh-CN.md` — natural Simplified Chinese companion.
 - `PROFILE.md` — compact structured reference for stable public technical
   facts and selected work.
-- `llms.txt` — lightweight pointer index to canonical profile and project
-  sources.
+- `llms.txt` — concise source map for agents, prioritizing canonical or raw
+  Markdown sources and brief descriptions.
+- `profile.jsonld` — Schema.org `Person` metadata for public identity,
+  affiliation, technical areas, and selected work.
 
 The README remains authoritative for current public positioning. The structured
 reference files should summarize or point to verified public facts rather than
@@ -69,8 +71,9 @@ Check:
 - Markdown CI;
 - current README links and widgets;
 - whether the English and Chinese versions still agree;
-- whether `PROFILE.md` and `llms.txt` still match the canonical README and
-  selected public work.
+- whether `PROFILE.md`, `llms.txt`, and `profile.jsonld` still match the
+  canonical README and selected public work;
+- whether the structured profile JSON-LD still parses successfully.
 
 ### 2. Inspect the public GitHub portfolio
 
