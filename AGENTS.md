@@ -56,8 +56,10 @@ evidence does not support.
 - `README.md` — canonical English public profile.
 - `README.zh-CN.md` — Simplified Chinese companion profile.
 - `PROFILE.md` — compact structured reference for public technical facts.
-- `llms.txt` — lightweight index pointing to the public profile and selected
-  project sources.
+- `llms.txt` — concise LLM-oriented source map following the public profile
+  and selected project sources.
+- `profile.jsonld` — Schema.org `Person` metadata for public identity,
+  affiliation, technical areas, and selected work.
 - `AGENTS.md` — canonical AI maintenance contract.
 - `MAINTENANCE.md` — human-readable long-term maintenance playbook.
 - `CONTRIBUTING.md` — contribution expectations.
@@ -115,8 +117,11 @@ Use these terms naturally in explanatory prose. Do not repeat phrases solely
 for indexing, add unsupported buzzwords, or turn the profile into a keyword
 list.
 
-When public technical facts change, keep `PROFILE.md` and `llms.txt`
-consistent with the canonical README and linked project sources.
+When public technical facts change, keep `PROFILE.md`, `llms.txt`, and
+`profile.jsonld` consistent with the canonical README and linked project
+sources. Keep `llms.txt` concise: prefer canonical or raw Markdown sources,
+brief annotations, and one link per useful source rather than duplicating full
+README prose.
 
 ### Selected Projects
 
@@ -282,7 +287,9 @@ Before declaring a profile-maintenance PR ready:
 - [ ] Every contribution status is current.
 - [ ] No private-only information appears in the diff.
 - [ ] English and Chinese facts agree.
-- [ ] `PROFILE.md` and `llms.txt` remain consistent with the canonical README.
+- [ ] `PROFILE.md`, `llms.txt`, and `profile.jsonld` remain consistent
+      with the canonical README.
+- [ ] Structured profile JSON-LD parses successfully in CI.
 - [ ] Chinese wording is natural rather than literal machine translation.
 - [ ] Claims match the owner's current career stage.
 - [ ] Selected projects remain curated rather than exhaustive.
