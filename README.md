@@ -16,7 +16,7 @@ M.S. in Applied Mathematics · Fudan University
 
 I am an Applied Mathematics M.S. student at Fudan University, interested in scientific machine learning and practical AI systems. My current work explores neural operators, learning-based methods for physical systems, and AI-assisted research and engineering workflows.
 
-Alongside research, I maintain public projects and contribute upstream to open-source projects I use, gradually building experience in agent engineering, reproducible workflows, and scientific/developer tooling.
+Alongside research, I maintain public projects and contribute upstream to open-source projects, with current work spanning agent engineering, reproducible research workflows, and scientific/developer tooling.
 
 ---
 
@@ -34,12 +34,10 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM-Scientific_Computing-4B5563?style=for-the-badge)
 
 ---
 
@@ -48,16 +46,16 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 <table>
 <tr>
 <td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-chronicle">AI4Math Chronicle</a></h3>
+  <p><strong>A timeline-first, evidence-backed archive of major milestones in AI for Mathematics.</strong></p>
+  <p>A continuously maintained bilingual project with a public site, explicit editorial and verification methodology, machine-readable data, and citable releases.</p>
+  <p><code>AI4Math</code> · <code>Open Data</code> · <code>Evidence</code> · <code>Astro</code></p>
+</td>
+<td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/agentic-simulation-lab">Agentic Simulation Lab</a></h3>
   <p><strong>Agent-orchestrated, reproducible engineering simulation workflows with explicit physics validation.</strong></p>
   <p>A public lab for learning and building trustworthy automation around Ansys-based simulation workflows, with solver-derived evidence and structured validation.</p>
   <p><code>Scientific Computing</code> · <code>AI Agents</code> · <code>Simulation</code> · <code>Reproducibility</code></p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/agentic-engineering-review">Agentic Engineering Review</a></h3>
-  <p><strong>An evidence-first engineering review protocol for AI agents.</strong></p>
-  <p>A public-preview protocol for reviewing software projects with applicability-aware scoring, explicit trade-offs, and evidence-backed findings. Reviews are read-only by default.</p>
-  <p><code>AI Agents</code> · <code>Engineering Review</code> · <code>Open Source</code> · <code>Evidence First</code></p>
 </td>
 </tr>
 <tr>
@@ -68,10 +66,10 @@ Alongside research, I maintain public projects and contribute upstream to open-s
   <p><code>Developer Tools</code> · <code>Coding Agents</code> · <code>DeepSeek Harness</code> · <code>TypeScript</code></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/slurm-dashboard">SLURM Dashboard</a></h3>
-  <p><strong>A self-hosted, teaching-first dashboard for learning and using SLURM clusters.</strong></p>
-  <p>The interface shows the real command behind each data block, combining a practical cluster dashboard with a guided path through SLURM, GPU monitoring, and basic Linux/HPC workflows.</p>
-  <p><code>HPC</code> · <code>SLURM</code> · <code>FastAPI</code> · <code>Linux</code></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/jev-testbench">jev-testbench</a></h3>
+  <p><strong>An auditable testbench for a typed probabilistic decision primitive.</strong></p>
+  <p>Measures TypeSafe Jev through append-only evidence and preregistered experiments, with a frozen v0.1 evidence release and an explicit null result rather than a polished success narrative.</p>
+  <p><code>Agentic Engineering</code> · <code>Evaluation</code> · <code>Reproducibility</code> · <code>Python</code></p>
 </td>
 </tr>
 </table>
@@ -80,16 +78,18 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 
 ## 🤝 Open-source Contributions
 
-- **[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence)** — deterministic regression/integration coverage and resumable-workflow provenance/session-identity hardening ([PR #1](https://github.com/DeepMathLLM/Creative-Intelligence/pull/1) merged, [#2](https://github.com/DeepMathLLM/Creative-Intelligence/pull/2) merged, [#3](https://github.com/DeepMathLLM/Creative-Intelligence/pull/3) open).
-- **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — crash-safe tool execution journaling and interrupted-turn recovery ([PR #4](https://github.com/DeepMathLLM/Moonshine/pull/4) draft).
+- **[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence)** — merged work on deterministic regression/integration testing, resumable-workflow provenance, and lifecycle integrity; further verification/controller hardening remains under review.
+- **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — [open PR](https://github.com/DeepMathLLM/Moonshine/pull/4) for crash-safe tool execution journaling and interrupted-turn recovery.
+- **[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)** — [merged PR #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029) normalizing LLM usage telemetry through a typed adapter.
+- **[mcp-migrate](https://github.com/dheerajjha/mcp-migrate)** — [merged PR #279](https://github.com/dheerajjha/mcp-migrate/pull/279) hardening Python fixer output so comment-out migrations do not leave empty function bodies.
 
 ---
 
 ## 🔬 Research Interests
 
 - Scientific Machine Learning
-- Neural Operators
-- AI4Science
+- Neural Operators & PDEs
+- AI for Science & Mathematics
 - Learning-based methods for physical systems
 
 ---
