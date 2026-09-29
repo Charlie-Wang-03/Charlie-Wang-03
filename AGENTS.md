@@ -55,6 +55,9 @@ evidence does not support.
 
 - `README.md` — canonical English public profile.
 - `README.zh-CN.md` — Simplified Chinese companion profile.
+- `PROFILE.md` — compact structured reference for public technical facts.
+- `llms.txt` — lightweight index pointing to the public profile and selected
+  project sources.
 - `AGENTS.md` — canonical AI maintenance contract.
 - `MAINTENANCE.md` — human-readable long-term maintenance playbook.
 - `CONTRIBUTING.md` — contribution expectations.
@@ -99,6 +102,21 @@ specialization.
 
 A profile update is not required every time a short-lived research topic or
 tool changes.
+
+### Semantic clarity
+
+Prefer explicit, established domain names when they are factually supported,
+for example: Scientific Machine Learning, neural operators, partial
+differential equations (PDEs), AI for Science & Mathematics (AI4Science /
+AI4Math), AI agents, agent reliability, scientific computing, reproducible
+research workflows, developer tooling, and open source.
+
+Use these terms naturally in explanatory prose. Do not repeat phrases solely
+for indexing, add unsupported buzzwords, or turn the profile into a keyword
+list.
+
+When public technical facts change, keep `PROFILE.md` and `llms.txt`
+consistent with the canonical README and linked project sources.
 
 ### Selected Projects
 
@@ -264,6 +282,7 @@ Before declaring a profile-maintenance PR ready:
 - [ ] Every contribution status is current.
 - [ ] No private-only information appears in the diff.
 - [ ] English and Chinese facts agree.
+- [ ] `PROFILE.md` and `llms.txt` remain consistent with the canonical README.
 - [ ] Chinese wording is natural rather than literal machine translation.
 - [ ] Claims match the owner's current career stage.
 - [ ] Selected projects remain curated rather than exhaustive.
