@@ -5,6 +5,15 @@ Fudan University. His public work currently spans Scientific Machine Learning,
 AI for Science & Mathematics, AI agents and agent reliability, reproducible
 research workflows, scientific computing, and open-source developer tooling.
 
+## Identity
+
+- **Name:** Yichuan Wang
+- **GitHub username:** `Charlie-Wang-03`
+- **Academic status:** M.S. student in Applied Mathematics
+- **Affiliation:** Fudan University
+- **ORCID:** [0009-0009-3807-6901](https://orcid.org/0009-0009-3807-6901)
+- **OpenReview:** [~Yichuan_Wang7](https://openreview.net/profile?id=~Yichuan_Wang7)
+
 ## Current areas
 
 - **Scientific Machine Learning** — neural operators, partial differential
@@ -43,10 +52,12 @@ and [mcp-migrate](https://github.com/dheerajjha/mcp-migrate).
 For current contribution status and project selection, use the repository's
 [README.md](README.md).
 
-## Academic profiles
+## Public profile references
 
-- ORCID: <https://orcid.org/0009-0009-3807-6901>
-- OpenReview: <https://openreview.net/profile?id=~Yichuan_Wang7>
+- [English profile](README.md)
+- [Simplified Chinese profile](README.zh-CN.md)
+- [LLM-oriented source map](llms.txt)
+- [Schema.org Person metadata](profile.jsonld)
 
 ## Public contact
 
