@@ -3,10 +3,10 @@
 ## Applied Mathematics × Scientific ML × AI Systems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Current interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Scientific Machine Learning, AI4Science, AI4Math, agent reliability, reproducible research workflows, and open-source engineering" />
 </p>
 
-M.S. in Applied Mathematics · Fudan University
+M.S. student in Applied Mathematics · Fudan University
 
 **English** · [简体中文](README.zh-CN.md)
 
@@ -14,9 +14,9 @@ M.S. in Applied Mathematics · Fudan University
 
 ## 👨‍💻 About
 
-I am an Applied Mathematics M.S. student at Fudan University, interested in scientific machine learning and practical AI systems. My current work explores neural operators, learning-based methods for physical systems, and AI-assisted research and engineering workflows.
+I am an Applied Mathematics M.S. student at Fudan University. My current interests include Scientific Machine Learning (Scientific ML), neural operators and PDEs, AI for Science & Mathematics (AI4Science / AI4Math), and practical AI systems.
 
-Alongside research, I maintain public projects and contribute upstream to open-source projects, with current work spanning agent engineering, reproducible research workflows, and scientific/developer tooling.
+Alongside research, I maintain public projects and contribute upstream to open-source software, with current work spanning AI agents and agent reliability, reproducible research workflows, scientific computing, and developer tooling.
 
 ---
 
@@ -24,9 +24,9 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 
 | Area | Exploring |
 | :--- | :--- |
-| **Scientific ML** | Neural operators, PDEs, and learning for physical systems |
-| **Agent Engineering** | Agent reliability, research agents, and developer tooling |
-| **Open Source** | Public projects, upstream contributions, and reproducible workflows |
+| **Scientific ML** | Neural operators, PDEs, and scientific machine learning for physical systems |
+| **Agent Engineering** | AI agents, agent reliability, research agents, and developer tooling |
+| **Open Source** | Public projects, upstream contributions, and reproducible research workflows |
 
 ---
 
@@ -88,8 +88,8 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 ## 🔬 Research Interests
 
 - Scientific Machine Learning
-- Neural Operators & PDEs
-- AI for Science & Mathematics
+- Neural Operators & Partial Differential Equations (PDEs)
+- AI for Science & Mathematics (AI4Science / AI4Math)
 - Learning-based methods for physical systems
 
 ---
@@ -110,5 +110,5 @@ Open to conversations around research, open-source projects, and AI engineering.
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Charlie-Wang-03 GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Yichuan Wang, Charlie-Wang-03 GitHub profile summary" />
 </p>

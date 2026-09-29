@@ -3,7 +3,7 @@
 ## 应用数学 × 科学机器学习 × AI 系统
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Current interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="科学机器学习、AI4Science、AI4Math、Agent 可靠性、可复现科研工作流与开源工程方向" />
 </p>
 
 复旦大学 · 应用数学硕士研究生
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 关于我
 
-我目前在复旦大学应用数学系攻读硕士，主要关注科学机器学习、神经算子以及面向物理系统的学习方法。除了科研，我也持续维护公开项目，并参与自己实际使用的开源项目上游贡献，目前的实践主要涉及 Agent 工程、可复现科研工作流以及科研与开发工具。
+我目前在复旦大学应用数学系攻读硕士，主要关注科学机器学习（Scientific Machine Learning）、神经算子与 PDE，以及 AI for Science & Mathematics（AI4Science / AI4Math）等方向，也在探索面向科研与工程场景的实用 AI 系统。除科研外，我持续维护公开项目，并参与自己实际使用的开源软件上游贡献，目前的实践涉及 AI Agent 与可靠性、可复现科研工作流、科学计算和开发工具。
 
 ---
 
@@ -22,9 +22,9 @@
 
 | 方向 | 正在探索 |
 | :--- | :--- |
-| **科学机器学习** | 神经算子、PDE，以及面向物理系统的学习方法 |
-| **Agent 工程** | Agent 可靠性、科研 Agent 与开发工具 |
-| **开源实践** | 公开项目、上游贡献与可复现工作流 |
+| **科学机器学习** | 神经算子、PDE，以及面向物理系统的科学机器学习方法 |
+| **Agent 工程** | AI Agent、Agent 可靠性、科研 Agent 与开发工具 |
+| **开源实践** | 公开项目、上游贡献与可复现科研工作流 |
 
 ---
 
@@ -86,8 +86,8 @@
 ## 🔬 研究兴趣
 
 - 科学机器学习
-- 神经算子与 PDE
-- AI for Science & Mathematics
+- 神经算子与偏微分方程（PDE）
+- AI for Science & Mathematics（AI4Science / AI4Math）
 - 面向物理系统的机器学习方法
 
 ---
@@ -108,5 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Charlie-Wang-03 GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Yichuan Wang（Charlie-Wang-03）的 GitHub Profile 概览" />
 </p>

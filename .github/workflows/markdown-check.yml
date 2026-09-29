@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Validate structured profile JSON-LD
+        run: python -m json.tool profile.jsonld > /dev/null
       - name: Check markdown files
         uses: DavidAnson/markdownlint-cli2-action@v17
         with:

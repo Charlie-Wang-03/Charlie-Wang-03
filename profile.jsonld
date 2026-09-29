@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yichuan Wang",
+  "alternateName": "Charlie-Wang-03",
+  "url": "https://github.com/Charlie-Wang-03",
+  "mainEntityOfPage": "https://github.com/Charlie-Wang-03",
+  "description": "Applied Mathematics M.S. student at Fudan University with public work in Scientific Machine Learning, AI for Science & Mathematics, AI agents and agent reliability, reproducible research workflows, scientific computing, and open-source engineering.",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Fudan University",
+    "url": "https://www.fudan.edu.cn/"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Graduate student",
+    "description": "M.S. student in Applied Mathematics"
+  },
+  "sameAs": [
+    "https://github.com/Charlie-Wang-03",
+    "https://orcid.org/0009-0009-3807-6901",
+    "https://openreview.net/profile?id=~Yichuan_Wang7"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "GitHub",
+      "value": "Charlie-Wang-03"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0009-3807-6901"
+    }
+  ],
+  "knowsAbout": [
+    "Applied Mathematics",
+    "Scientific Machine Learning",
+    "Neural Operators",
+    "Partial Differential Equations",
+    "AI for Science",
+    "AI for Mathematics",
+    "AI Agents",
+    "Agent Reliability",
+    "Reproducible Research",
+    "Scientific Computing",
+    "Open-source Engineering",
+    "Developer Tooling"
+  ],
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "AI4Math Chronicle",
+      "url": "https://github.com/Charlie-Wang-03/ai4math-chronicle"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "Agentic Simulation Lab",
+      "url": "https://github.com/Charlie-Wang-03/agentic-simulation-lab",
+      "programmingLanguage": "Python"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "Sightline",
+      "url": "https://github.com/Charlie-Wang-03/dsh-sightline",
+      "programmingLanguage": "TypeScript"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "jev-testbench",
+      "url": "https://github.com/Charlie-Wang-03/jev-testbench",
+      "programmingLanguage": "Python"
+    }
+  ]
+}
