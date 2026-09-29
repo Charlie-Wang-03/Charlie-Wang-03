@@ -45,9 +45,9 @@
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/ai4math-chronicle">AI4Math Chronicle</a></h3>
-  <p><strong>一条以时间线为主、以证据为基础的 AI for Mathematics 重要进展档案。</strong></p>
+  <p><strong>一个以时间线为核心、基于证据的 AI for Mathematics 重大进展档案。</strong></p>
   <p>这是一个持续维护的中英双语项目，包含公开网站、明确的编辑与核验方法、机器可读数据，以及可引用的版本快照。</p>
-  <p><code>AI4Math</code> · <code>开放数据</code> · <code>证据治理</code> · <code>Astro</code></p>
+  <p><code>AI4Math</code> · <code>开放数据</code> · <code>证据驱动</code> · <code>Astro</code></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/agentic-simulation-lab">Agentic Simulation Lab</a></h3>
@@ -65,8 +65,8 @@
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/jev-testbench">jev-testbench</a></h3>
-  <p><strong>一个面向 typed probabilistic decision primitive 的可审计实验台。</strong></p>
-  <p>项目用 append-only 证据记录和预注册实验测量 TypeSafe Jev，并冻结了 v0.1 证据版本；结果中明确保留了 null result，而不是把实验包装成预设成功。</p>
+  <p><strong>一个用来测试「类型化概率决策原语」的可审计实验台。</strong></p>
+  <p>项目通过只追加的证据记录和预注册实验测量 TypeSafe Jev，并冻结了 v0.1 证据版本。主要结果是一个负结果，仓库将它如实保留，而不是包装成预设成功。</p>
   <p><code>Agentic Engineering</code> · <code>评估</code> · <code>可复现性</code> · <code>Python</code></p>
 </td>
 </tr>
