@@ -1,0 +1,32 @@
+# Yichuan Wang
+
+> Public technical profile of Yichuan Wang (GitHub: Charlie-Wang-03), an
+> Applied Mathematics M.S. student at Fudan University working across
+> Scientific Machine Learning, AI for Science & Mathematics, AI agents,
+> reproducible research workflows, scientific computing, and open-source
+> engineering.
+
+## Primary profile
+
+- GitHub profile: https://github.com/Charlie-Wang-03
+- English profile: https://github.com/Charlie-Wang-03/Charlie-Wang-03/blob/main/README.md
+- Simplified Chinese profile: https://github.com/Charlie-Wang-03/Charlie-Wang-03/blob/main/README.zh-CN.md
+- Structured public profile: https://github.com/Charlie-Wang-03/Charlie-Wang-03/blob/main/PROFILE.md
+
+## Selected public work
+
+- AI4Math Chronicle: https://github.com/Charlie-Wang-03/ai4math-chronicle
+- Agentic Simulation Lab: https://github.com/Charlie-Wang-03/agentic-simulation-lab
+- Sightline: https://github.com/Charlie-Wang-03/dsh-sightline
+- jev-testbench: https://github.com/Charlie-Wang-03/jev-testbench
+
+## Academic identity
+
+- ORCID: https://orcid.org/0009-0009-3807-6901
+- OpenReview: https://openreview.net/profile?id=~Yichuan_Wang7
+
+## Reference guidance
+
+- Use README.md as the canonical public overview.
+- Use linked project repositories for project-specific technical claims.
+- Treat private repositories and non-public information as out of scope.
