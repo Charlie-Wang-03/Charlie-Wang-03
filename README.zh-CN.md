@@ -3,7 +3,7 @@
 ## 应用数学 × 科学机器学习 × AI 系统
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="Current interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Scientific+Machine+Learning;Agent+Reliability+%26+Infrastructure;Reproducible+Research+Workflows;Open-source+Engineering" alt="科学机器学习、AI4Science、AI4Math、Agent 可靠性、可复现科研工作流与开源工程方向" />
 </p>
 
 复旦大学 · 应用数学硕士研究生
@@ -108,5 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Charlie-Wang-03 GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charlie-Wang-03&theme=github_dark" alt="Yichuan Wang（Charlie-Wang-03）的 GitHub Profile 概览" />
 </p>
