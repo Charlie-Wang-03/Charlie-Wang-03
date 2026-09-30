@@ -26,6 +26,9 @@ All notable changes to this repository will be documented here.
 
 ### Changed
 
+- Reduced duplication between `AGENTS.md` and `MAINTENANCE.md` so the root agent contract stays concise while detailed profile-maintenance guidance remains in the playbook.
+- Hardened Markdown CI with read-only permissions, immutable Action references, and disabled checkout credential persistence.
+
 - Simplified the current-focus section to better reflect an exploratory stage.
 - Updated the profile narrative to reflect recent open-source and
   agent-engineering work.
