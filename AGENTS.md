@@ -2,313 +2,106 @@
 
 ## Purpose
 
-This repository is the special GitHub profile repository for
-`Charlie-Wang-03`. Its root `README.md` is rendered on the public GitHub
-profile, so changes here affect the owner's public technical identity rather
-than only a normal project page.
-
-Treat this repository as a curated public landing page for a developing
-Research × AI Engineering × Open Source profile. The goal is not to maximize
-the amount of content. The goal is to keep the profile accurate, current,
-restrained, useful, and consistent with the owner's real GitHub activity.
-
-This file is the canonical repository-level instruction source for AI tools.
-Compatibility files may point here, but they should not duplicate this policy.
-
-## Read this before making changes
-
-Before editing anything substantial:
-
-1. Read the current `README.md`, `README.zh-CN.md`, `CHANGELOG.md`,
-   `MAINTENANCE.md`, and relevant governance files.
-2. Inspect the current `main` branch, open pull requests, and recent profile
-   changes so that new work does not undo accepted decisions.
-3. If the task changes portfolio or open-source content, inspect the owner's
-   current GitHub account state rather than relying on an old README snapshot.
-4. For every candidate project or contribution mentioned publicly, inspect the
-   actual repository, README, release state, visibility, and upstream PR state.
-5. Prefer current GitHub evidence over memory, old chat context, old profile
-   text, or assumptions from repository names.
-
-If a required fact cannot be verified, omit it or mark it conservatively. Do
-not fill gaps with plausible-sounding claims.
-
-## Authority and source-of-truth order
-
-Use the following order when resolving decisions:
-
-1. The owner's latest explicit instruction controls editorial intent and
-   approval.
-2. Current GitHub state controls factual claims: visibility, repository
-   ownership, releases, PR status, merge status, project names, and links.
-3. The selected project's own current documentation controls its technical
-   description.
-4. This repository's accepted `main` branch controls profile style,
-   structure, and prior maintenance decisions.
-5. Old conversations, cached summaries, and historical README text are context,
-   not authority.
-
-An explicit editorial preference never permits a factual claim that current
-evidence does not support.
-
-## Repository roles
-
-- `README.md` — canonical English public profile.
-- `README.zh-CN.md` — Simplified Chinese companion profile.
-- `PROFILE.md` — compact structured reference for public technical facts.
-- `llms.txt` — concise LLM-oriented source map following the public profile
-  and selected project sources.
-- `profile.jsonld` — Schema.org `Person` metadata for public identity,
-  affiliation, technical areas, and selected work.
-- `AGENTS.md` — canonical AI maintenance contract.
-- `MAINTENANCE.md` — human-readable long-term maintenance playbook.
-- `CONTRIBUTING.md` — contribution expectations.
-- `SECURITY.md` — security and sensitive-information reporting policy.
-- `CODE_OF_CONDUCT.md` — collaboration conduct.
-- `CHANGELOG.md` — notable profile/governance changes.
-- `.github/` — PR/issue templates, CI, and tool-specific compatibility
-  instructions.
+This is the special GitHub profile repository for `Charlie-Wang-03`. Its root `README.md` is rendered on the public GitHub profile, so changes here affect the owner's public technical identity.
 
-## Public-profile content policy
+Treat this repository as a curated public landing page for a developing Research × AI Engineering × Open Source profile. Keep it accurate, current, restrained, and grounded in public evidence.
 
-### Identity
-
-Keep the profile grounded in the owner's current career stage.
-
-Prefer language such as:
-
-- interested in;
-- exploring;
-- current focus;
-- public projects;
-- open-source contributions;
-- research and engineering practice.
+This file is the canonical repository-level instruction source for AI tools. For detailed long-term maintenance guidance, read [MAINTENANCE.md](MAINTENANCE.md).
 
-Avoid unsupported or inflated titles such as:
+## Authority Order
 
-- expert;
-- architect;
-- specialist;
-- founder;
-- senior researcher;
-- production-grade;
-- industry-leading.
+When facts or instructions conflict, use this order:
 
-Do not convert aspirations into achievements.
-
-### Current Focus
-
-Keep this section broad and exploratory. It should summarize a few durable
-directions, not track every temporary project or imply premature
-specialization.
-
-A profile update is not required every time a short-lived research topic or
-tool changes.
+1. the owner's latest explicit instruction for editorial intent and approval;
+2. current GitHub state for repository, release, PR, visibility, and contribution status;
+3. each selected project's own current documentation for technical claims;
+4. this repository's accepted `main` branch for profile structure and style;
+5. historical README text, old conversations, and cached summaries only as context.
 
-### Semantic clarity
+Never convert an editorial preference into an unsupported factual claim.
 
-Prefer explicit, established domain names when they are factually supported,
-for example: Scientific Machine Learning, neural operators, partial
-differential equations (PDEs), AI for Science & Mathematics (AI4Science /
-AI4Math), AI agents, agent reliability, scientific computing, reproducible
-research workflows, developer tooling, and open source.
+## Read First
 
-Use these terms naturally in explanatory prose. Do not repeat phrases solely
-for indexing, add unsupported buzzwords, or turn the profile into a keyword
-list.
+Before substantive changes:
 
-When public technical facts change, keep `PROFILE.md`, `llms.txt`, and
-`profile.jsonld` consistent with the canonical README and linked project
-sources. Keep `llms.txt` concise: prefer canonical or raw Markdown sources,
-brief annotations, and one link per useful source rather than duplicating full
-README prose.
+1. read `README.md` and `README.zh-CN.md`;
+2. read [MAINTENANCE.md](MAINTENANCE.md) when changing portfolio, identity, governance, or long-term maintenance behavior;
+3. inspect current `main`, open PRs, and recent relevant changes;
+4. verify public project and contribution claims against current GitHub evidence.
 
-### Selected Projects
+Do not ask the owner to restate facts that can be verified from GitHub.
 
-The project section is curated, not exhaustive.
+## Repository Roles
 
-Before adding or retaining a project:
+- `README.md` — canonical English public profile;
+- `README.zh-CN.md` — Simplified Chinese companion;
+- `PROFILE.md` — compact structured public reference;
+- `llms.txt` — concise LLM-oriented source map;
+- `profile.jsonld` — machine-readable Schema.org `Person` metadata;
+- `AGENTS.md` — canonical AI maintenance contract;
+- `MAINTENANCE.md` — detailed human/AI maintenance playbook;
+- `CHANGELOG.md` — notable profile and governance changes;
+- `.github/` — PR, issue, CI, and compatibility instructions.
 
-- verify that it is public;
-- verify that the owner has a meaningful authorship or maintainer relationship;
-- read its current README and release/status information;
-- prefer projects that add distinct evidence to the public narrative;
-- avoid duplicating every pinned repository merely because it is pinned.
+Keep normative rules canonical rather than duplicating them across files.
 
-Usually a small set of representative projects is better than a catalog.
+## Public Evidence and Privacy
 
-Do not present a fork, mirror, course copy, temporary experiment, private
-archive, or dogfood repository as an original personal project.
+This repository may only publish claims supported by current public evidence.
 
-### Open-source Contributions
+- Verify selected projects, releases, links, and PR status before updating the profile.
+- If a fact cannot be verified, omit it or phrase it conservatively.
+- Access is not permission to publish.
+- Never surface private-repository names, private results, credentials, internal paths, or non-public material without explicit approval.
+- Do not turn aspirations into achievements or use inflated titles unsupported by evidence.
 
-Keep this section compact.
+For detailed editorial rules on project selection, contribution summaries, profile wording, and visual style, follow [MAINTENANCE.md](MAINTENANCE.md).
 
-- Prefer one line per upstream project, not one line per PR.
-- Group related PRs under the same upstream project.
-- Distinguish merged work from open, draft, or abandoned work when the status
-  materially affects the claim.
-- Do not turn the profile into a PR scoreboard.
-- Do not surface contributions whose main purpose is private dogfooding unless
-  the owner explicitly decides they belong in the public narrative.
+## Bilingual Requirement
 
-A fork is evidence of a contribution route, not automatically a portfolio
-project.
+Keep `README.md` and `README.zh-CN.md` factually aligned in the same PR when public facts change.
 
-### Tools and technologies
+English is the canonical international-facing version. Chinese should read naturally rather than mirror English sentence by sentence.
 
-Only list tools that are supported by current work or repeated use. Do not add
-future skills, fashionable technologies, or one-off dependencies merely to
-increase badge count.
+Project names, package names, and established technical terms may remain in English when that is clearer.
 
-## Bilingual policy
+## Change Workflow
 
-English and Simplified Chinese should remain factually aligned, but they do not
-need to be literal translations.
+For normal maintenance:
 
-- English is the canonical international-facing profile.
-- Chinese should read like natural Chinese written for domestic researchers,
-  collaborators, and hiring readers.
-- Keep section structure broadly parallel so the two versions are easy to
-  maintain.
-- When facts change, update both language versions in the same PR.
-- Do not translate proper names, project names, package names, or technical
-  terms when the English form is clearer or standard.
-- Avoid machine-translated phrasing and excessive bilingual repetition.
-
-## Visual policy
+1. create a short-lived branch from `main`;
+2. make one coherent change set;
+3. keep public facts synchronized across affected profile surfaces;
+4. update `CHANGELOG.md` for notable changes;
+5. open a focused PR;
+6. wait for repository CI;
+7. review the rendered profile when README presentation changes;
+8. squash merge after approval.
 
-Preserve the current polished academic + research/developer portfolio style
-unless the owner explicitly asks for a redesign.
+Do not mix unrelated cleanup into a focused profile update.
 
-Preferred elements:
+## High-Risk Changes
 
-- a clear hero;
-- restrained badges;
-- compact tables/cards;
-- limited emoji section markers;
-- one low-noise profile summary element;
-- readable bilingual navigation.
+Require explicit owner approval before:
 
-Avoid high-noise profile decorations unless explicitly approved:
-
-- contribution snakes;
-- visitor counters;
-- trophy walls;
-- streak widgets;
-- multiple redundant GitHub-stat cards;
-- dense skill-badge walls;
-- animated role/title claims.
-
-External image/badge services must be non-essential: if they fail, the profile
-should still communicate the important information.
-
-## Privacy and confidentiality
-
-This repository is public. Assume every committed byte is permanently public.
-
-Never publish, infer, or summarize from private repositories unless the owner
-explicitly approves the exact public disclosure and the disclosed information
-is safe to publish.
-
-Do not expose:
-
-- secrets, tokens, cookies, credentials, or private keys;
-- private repository content or names merely because an AI connector can see
-  them;
-- internal hostnames, IP addresses, account identifiers, billing data, or
-  private infrastructure details;
-- customer/client information;
-- unreleased research results or private manuscripts;
-- local filesystem paths or machine-specific secrets.
-
-Publicly listed contact information may be retained when it is already an
-intentional part of the profile.
-
-## Maintenance triggers
-
-Re-audit the profile when one or more of the following happens:
-
-- a selected project is renamed, archived, made private, or materially changes
-  scope;
-- a public project reaches a meaningful release or becomes substantially more
-  representative than an existing selected project;
-- an upstream contribution changes status in a way that alters the public
-  claim;
-- the owner's academic affiliation, degree status, research direction, contact
-  links, or career positioning changes;
-- pinned repositories change enough that the profile narrative no longer
-  matches the visible portfolio;
-- a badge, image, link, or third-party profile widget breaks;
-- the owner explicitly requests a portfolio/profile audit.
-
-Do not churn the README for trivial activity.
-
-## Standard change workflow
-
-For non-trivial changes:
-
-1. Start from current `main`.
-2. Create a short-lived descriptive branch.
-3. Make the smallest coherent change.
-4. Update both README languages when public profile facts change.
-5. Update `CHANGELOG.md` for notable profile or governance changes.
-6. Run or wait for repository CI, especially `Markdown Check`.
-7. Open a PR with the factual basis and review focus.
-8. Stop for human review before merge unless the owner explicitly authorizes
-   the merge in the current interaction.
-9. Prefer squash merge.
-10. Delete the temporary branch after merge.
-
-The repository currently uses squash merging as the normal merge strategy.
-Do not bypass branch/ruleset protections.
-
-## Human approval gates
-
-Human approval is required before:
-
-- changing the public identity/positioning statement;
-- adding or removing a selected project for editorial reasons;
-- adding a new upstream organization/project to the contribution narrative;
-- materially redesigning the visual language;
-- changing public contact information;
-- publishing information derived from anything private or ambiguous;
-- weakening CI, security, repository protection, or governance;
-- changing repository visibility or other destructive/high-impact settings.
-
-Routine factual refreshes may be prepared autonomously, but the AI should still
-present them in a reviewable PR.
-
-## Validation checklist
-
-Before declaring a profile-maintenance PR ready:
-
-- [ ] Every project link resolves to the intended public repository.
-- [ ] Every contribution status is current.
-- [ ] No private-only information appears in the diff.
-- [ ] English and Chinese facts agree.
-- [ ] `PROFILE.md`, `llms.txt`, and `profile.jsonld` remain consistent
-      with the canonical README.
-- [ ] Structured profile JSON-LD parses successfully in CI.
-- [ ] Chinese wording is natural rather than literal machine translation.
-- [ ] Claims match the owner's current career stage.
-- [ ] Selected projects remain curated rather than exhaustive.
-- [ ] Open-source contributions remain compact and grouped by upstream.
-- [ ] Existing visual language is preserved unless redesign was requested.
-- [ ] Markdown CI passes.
-- [ ] `CHANGELOG.md` is updated when appropriate.
-- [ ] The PR explains what changed and why.
-
-## Reporting to the owner
-
-After making changes, report:
-
-- what was inspected;
-- what changed;
-- what was deliberately not changed;
-- any facts that remain uncertain;
-- CI/PR status;
-- the exact point where human review or settings work is required.
-
-Never claim a merge, deletion, protection setting, or other GitHub action was
-completed unless the tool result confirms it.
+- major identity or positioning changes;
+- publishing information derived from private sources;
+- weakening privacy, security, branch, or CI protections;
+- large visual redesigns;
+- repository visibility, ruleset, permission, release, or history changes;
+- destructive operations.
+
+## Validation
+
+Before declaring work complete:
+
+1. inspect the resulting diff;
+2. run or wait for the repository's Markdown / structured-data CI;
+3. verify changed links and public claims;
+4. confirm English/Chinese factual parity when applicable;
+5. check that `PROFILE.md`, `llms.txt`, and `profile.jsonld` remain consistent when their source facts changed;
+6. confirm that no private or machine-specific material was introduced.
+
+## Definition of Done
+
+A change is complete when the public profile remains accurate, restrained, current, evidence-backed, privacy-safe, and easy for both humans and AI tools to maintain.
