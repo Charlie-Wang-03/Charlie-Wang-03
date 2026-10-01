@@ -19,7 +19,7 @@ research workflows, scientific computing, and open-source developer tooling.
 - **Scientific Machine Learning** — neural operators, partial differential
   equations (PDEs), and learning-based methods for physical systems.
 - **AI for Science & Mathematics** — AI4Science / AI4Math, mathematical AI,
-  evidence-backed research tooling, and reproducible workflows.
+  evidence-backed research-intelligence tooling, and reproducible workflows.
 - **AI systems and agents** — AI agents, agent reliability, research agents,
   coding-agent tooling, and workflow infrastructure.
 - **Open-source engineering** — public projects, upstream contributions,
@@ -31,6 +31,11 @@ research workflows, scientific computing, and open-source developer tooling.
   — a timeline-first, evidence-backed archive of major milestones in AI for
   Mathematics, with bilingual public pages, machine-readable data, and explicit
   editorial and verification methodology.
+- **[AI4Math Radar](https://github.com/Charlie-Wang-03/ai4math-radar)**
+  — an independently maintained AI for Mathematics research-intelligence
+  project derived from the AIHOT open-source framework, with explicit selection
+  policy, structured data, deterministic validation, a public static site, and
+  a citable v0.1.0 editorial baseline.
 - **[Agentic Simulation Lab](https://github.com/Charlie-Wang-03/agentic-simulation-lab)**
   — reproducible Ansys-based engineering simulation workflows orchestrated by
   AI agents and evaluated with explicit physics validation.
@@ -40,14 +45,17 @@ research workflows, scientific computing, and open-source developer tooling.
 - **[jev-testbench](https://github.com/Charlie-Wang-03/jev-testbench)**
   — an auditable experimental testbench for TypeSafe Jev with append-only
   evidence, preregistered experiments, and a frozen evidence release.
+- **[Agentic Engineering Preferences](https://github.com/Charlie-Wang-03/agentic-engineering-preferences)**
+  — a public, evolving reference for reusable engineering preferences,
+  decision rules, and project conventions in AI-assisted software development.
 
 ## Open-source activity
 
-Public upstream contributions include work in
-[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence),
+Public upstream contributions currently highlighted on the profile include work
+in [DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence),
 [DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine),
-[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk),
-and [mcp-migrate](https://github.com/dheerajjha/mcp-migrate).
+[KKKKhazix / AIHOT](https://github.com/KKKKhazix/AIHOT), and
+[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk).
 
 For current contribution status and project selection, use the repository's
 [README.md](README.md).

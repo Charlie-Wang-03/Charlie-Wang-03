@@ -14,16 +14,18 @@ Use the canonical profile files for identity and current positioning. Use each l
 ## Selected public work
 
 - [AI4Math Chronicle](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-chronicle/main/README.md): Evidence-backed, bilingual AI for Mathematics timeline and archive with explicit editorial and verification methodology.
+- [AI4Math Radar](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-radar/main/README.md): Independently maintained AI for Mathematics research intelligence derived from the AIHOT open-source framework, with structured data, deterministic validation, a static public site, and a v0.1.0 editorial baseline.
 - [Agentic Simulation Lab](https://raw.githubusercontent.com/Charlie-Wang-03/agentic-simulation-lab/main/README.md): Reproducible Ansys-based engineering simulation workflows orchestrated by AI agents and evaluated with explicit physics validation.
 - [Sightline](https://raw.githubusercontent.com/Charlie-Wang-03/dsh-sightline/main/README.md): Developer tooling for comparing workspace instruction surfaces across DeepSeek Harness, Codex, and Claude Code.
 - [jev-testbench](https://raw.githubusercontent.com/Charlie-Wang-03/jev-testbench/main/README.md): Auditable Jev testbench with append-only evidence, preregistered experiments, and a frozen evidence release.
+- [Agentic Engineering Preferences](https://raw.githubusercontent.com/Charlie-Wang-03/agentic-engineering-preferences/main/README.md): Reusable engineering preferences, decision rules, and project conventions for AI-assisted software development.
 
 ## Open-source contributions
 
 - [DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence): Upstream work on deterministic regression/integration testing, resumable-workflow provenance, lifecycle integrity, verification, and controller hardening.
 - [DeepMathLLM / Moonshine PR #4](https://github.com/DeepMathLLM/Moonshine/pull/4): Open contribution for crash-safe tool execution journaling and interrupted-turn recovery.
+- [KKKKhazix / AIHOT](https://github.com/KKKKhazix/AIHOT): Merged upstream work on pairwise event-relation evaluation, SelectBench semantics, and MCP smoke-contract checks; weekly-report API work remains under review.
 - [OpenHands / software-agent-sdk PR #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029): Merged contribution normalizing LLM usage telemetry through a typed adapter.
-- [mcp-migrate PR #279](https://github.com/dheerajjha/mcp-migrate/pull/279): Merged contribution hardening Python fixer output so comment-out migrations do not leave empty function bodies.
 
 ## Academic identity
 
@@ -34,3 +36,4 @@ Use the canonical profile files for identity and current positioning. Use each l
 
 - [GitHub profile](https://github.com/Charlie-Wang-03): Human-facing GitHub profile and contribution activity.
 - [AI4Math Chronicle public site](https://charlie-wang-03.github.io/ai4math-chronicle/en/): Public web interface for the AI4Math Chronicle.
+- [AI4Math Radar public site](https://charlie-wang-03.github.io/ai4math-radar/): Public static research-intelligence interface for AI4Math Radar.

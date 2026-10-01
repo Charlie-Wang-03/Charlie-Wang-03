@@ -15,20 +15,21 @@ All notable changes to this repository will be documented here.
 - Thin Claude and GitHub Copilot compatibility instructions that defer to
   `AGENTS.md`.
 - AI4Math Chronicle and jev-testbench to the curated selected-project portfolio.
-- Current merged upstream contributions to OpenHands/software-agent-sdk and
-  mcp-migrate.
+- Initial merged upstream contribution references to OpenHands/software-agent-sdk
+  and mcp-migrate.
 - `PROFILE.md` as a compact structured reference for stable public technical
   facts and selected work.
 - `llms.txt` as a concise source map to canonical profile, project, upstream,
   and academic references.
 - `profile.jsonld` with Schema.org `Person` metadata for public identity,
   affiliation, technical areas, and selected work.
+- AI4Math Radar and Agentic Engineering Preferences to the curated public
+  project portfolio.
 
 ### Changed
 
 - Reduced duplication between `AGENTS.md` and `MAINTENANCE.md` so the root agent contract stays concise while detailed profile-maintenance guidance remains in the playbook.
 - Hardened Markdown CI with read-only permissions, immutable Action references, and disabled checkout credential persistence.
-
 - Simplified the current-focus section to better reflect an exploratory stage.
 - Updated the profile narrative to reflect recent open-source and
   agent-engineering work.
@@ -50,6 +51,16 @@ All notable changes to this repository will be documented here.
 - Improved image alternative text and entity disambiguation across the public
   profile.
 - Extended CI to validate `profile.jsonld` syntax alongside Markdown checks.
+- Refreshed the profile around recent public work: AI4Math Radar v0.1.0,
+  Agentic Engineering Preferences, and expanded upstream contributions to
+  KKKKhazix/AIHOT.
+- Expanded the selected-project grid from four to six projects while preserving
+  the existing visual language and previously approved jev-testbench placement.
+- Replaced the smaller mcp-migrate contribution summary with the more recent
+  multi-PR AIHOT contribution line, while keeping the contribution section
+  compact.
+- Synchronized `PROFILE.md`, `llms.txt`, and `profile.jsonld` with the
+  refreshed public portfolio.
 
 ## 2026-08
 
