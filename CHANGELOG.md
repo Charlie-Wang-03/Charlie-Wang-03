@@ -15,8 +15,8 @@ All notable changes to this repository will be documented here.
 - Thin Claude and GitHub Copilot compatibility instructions that defer to
   `AGENTS.md`.
 - AI4Math Chronicle and jev-testbench to the curated selected-project portfolio.
-- Current merged upstream contributions to OpenHands/software-agent-sdk and
-  mcp-migrate.
+- Initial merged upstream contribution references to OpenHands/software-agent-sdk
+  and mcp-migrate.
 - `PROFILE.md` as a compact structured reference for stable public technical
   facts and selected work.
 - `llms.txt` as a concise source map to canonical profile, project, upstream,
@@ -30,7 +30,6 @@ All notable changes to this repository will be documented here.
 
 - Reduced duplication between `AGENTS.md` and `MAINTENANCE.md` so the root agent contract stays concise while detailed profile-maintenance guidance remains in the playbook.
 - Hardened Markdown CI with read-only permissions, immutable Action references, and disabled checkout credential persistence.
-
 - Simplified the current-focus section to better reflect an exploratory stage.
 - Updated the profile narrative to reflect recent open-source and
   agent-engineering work.
