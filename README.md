@@ -16,7 +16,7 @@ M.S. student in Applied Mathematics · Fudan University
 
 I am an Applied Mathematics M.S. student at Fudan University. My current interests include Scientific Machine Learning (Scientific ML), neural operators and PDEs, AI for Science & Mathematics (AI4Science / AI4Math), and practical AI systems.
 
-Alongside research, I maintain public projects and contribute upstream to open-source software, with current work spanning AI agents and agent reliability, research-intelligence and reproducible research workflows, scientific computing, and developer tooling.
+Alongside research, I maintain public projects and contribute upstream to open-source software, with current work spanning AI agents and agent reliability, research-intelligence tooling, reproducible research workflows, scientific computing, and developer tooling.
 
 ---
 
@@ -54,7 +54,7 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
   <p><strong>A curated, evidence-aware research-intelligence project for AI for Mathematics.</strong></p>
-  <p>Combines an explicit selection policy, structured AI4Math data, deterministic validation, and a static public site. v0.1.0 is the first citable editorial baseline.</p>
+  <p>Independently maintained and derived from the AIHOT open-source framework; combines an explicit selection policy, structured AI4Math data, deterministic validation, and a static public site. v0.1.0 is the first citable editorial baseline.</p>
   <p><code>AI4Math</code> · <code>Research Intelligence</code> · <code>Evidence</code> · <code>TypeScript</code></p>
 </td>
 </tr>
