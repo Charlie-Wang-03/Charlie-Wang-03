@@ -69,7 +69,7 @@ For current contribution status and project selection, use the repository's
 
 ## Public contact
 
-- Email: <YichuanCharlieWang@outlook.com>
+- Email: [yichuancharliewang@gmail.com](mailto:yichuancharliewang@gmail.com)
 - GitHub: <https://github.com/Charlie-Wang-03>
 
 ## Source boundaries
