@@ -42,16 +42,24 @@
     "AI for Mathematics",
     "AI Agents",
     "Agent Reliability",
+    "Research Intelligence",
     "Reproducible Research",
     "Scientific Computing",
     "Open-source Engineering",
-    "Developer Tooling"
+    "Developer Tooling",
+    "Human-AI Collaboration"
   ],
   "subjectOf": [
     {
       "@type": "CreativeWork",
       "name": "AI4Math Chronicle",
       "url": "https://github.com/Charlie-Wang-03/ai4math-chronicle"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "AI4Math Radar",
+      "url": "https://github.com/Charlie-Wang-03/ai4math-radar",
+      "programmingLanguage": "TypeScript"
     },
     {
       "@type": "SoftwareSourceCode",
@@ -70,6 +78,11 @@
       "name": "jev-testbench",
       "url": "https://github.com/Charlie-Wang-03/jev-testbench",
       "programmingLanguage": "Python"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Agentic Engineering Preferences",
+      "url": "https://github.com/Charlie-Wang-03/agentic-engineering-preferences"
     }
   ]
 }
