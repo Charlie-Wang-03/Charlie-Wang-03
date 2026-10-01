@@ -32,9 +32,10 @@ research workflows, scientific computing, and open-source developer tooling.
   Mathematics, with bilingual public pages, machine-readable data, and explicit
   editorial and verification methodology.
 - **[AI4Math Radar](https://github.com/Charlie-Wang-03/ai4math-radar)**
-  — an evidence-aware AI for Mathematics research-intelligence project with
-  explicit selection policy, structured data, deterministic validation, a
-  public static site, and a citable v0.1.0 editorial baseline.
+  — an independently maintained AI for Mathematics research-intelligence
+  project derived from the AIHOT open-source framework, with explicit selection
+  policy, structured data, deterministic validation, a public static site, and
+  a citable v0.1.0 editorial baseline.
 - **[Agentic Simulation Lab](https://github.com/Charlie-Wang-03/agentic-simulation-lab)**
   — reproducible Ansys-based engineering simulation workflows orchestrated by
   AI agents and evaluated with explicit physics validation.
