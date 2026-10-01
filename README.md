@@ -87,6 +87,7 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🤝 Open-source Contributions
@@ -95,6 +96,7 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 - **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — [open PR](https://github.com/DeepMathLLM/Moonshine/pull/4) for crash-safe tool execution journaling and interrupted-turn recovery.
 - **[KKKKhazix / AIHOT](https://github.com/KKKKhazix/AIHOT)** — merged work on pairwise event-relation evaluation, SelectBench semantics, and MCP smoke-contract checks; [PR #56](https://github.com/KKKKhazix/AIHOT/pull/56) for weekly-report API exposure is under review.
 - **[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)** — [merged PR #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029) normalizing LLM usage telemetry through a typed adapter.
+
 ---
 
 ## 🔬 Research Interests
