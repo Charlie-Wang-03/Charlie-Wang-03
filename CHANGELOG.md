@@ -23,6 +23,8 @@ All notable changes to this repository will be documented here.
   and academic references.
 - `profile.jsonld` with Schema.org `Person` metadata for public identity,
   affiliation, technical areas, and selected work.
+- AI4Math Radar and Agentic Engineering Preferences to the curated public
+  project portfolio.
 
 ### Changed
 
@@ -50,6 +52,16 @@ All notable changes to this repository will be documented here.
 - Improved image alternative text and entity disambiguation across the public
   profile.
 - Extended CI to validate `profile.jsonld` syntax alongside Markdown checks.
+- Refreshed the profile around recent public work: AI4Math Radar v0.1.0,
+  Agentic Engineering Preferences, and expanded upstream contributions to
+  KKKKhazix/AIHOT.
+- Expanded the selected-project grid from four to six projects while preserving
+  the existing visual language and previously approved jev-testbench placement.
+- Replaced the smaller mcp-migrate contribution summary with the more recent
+  multi-PR AIHOT contribution line, while keeping the contribution section
+  compact.
+- Synchronized `PROFILE.md`, `llms.txt`, and `profile.jsonld` with the
+  refreshed public portfolio.
 
 ## 2026-08
 
