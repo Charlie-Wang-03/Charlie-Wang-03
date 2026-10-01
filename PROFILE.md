@@ -48,6 +48,7 @@ research workflows, scientific computing, and open-source developer tooling.
 - **[Agentic Engineering Preferences](https://github.com/Charlie-Wang-03/agentic-engineering-preferences)**
   — a public, evolving reference for reusable engineering preferences,
   decision rules, and project conventions in AI-assisted software development.
+
 ## Open-source activity
 
 Public upstream contributions currently highlighted on the profile include work
