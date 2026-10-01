@@ -14,7 +14,7 @@ Use the canonical profile files for identity and current positioning. Use each l
 ## Selected public work
 
 - [AI4Math Chronicle](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-chronicle/main/README.md): Evidence-backed, bilingual AI for Mathematics timeline and archive with explicit editorial and verification methodology.
-- [AI4Math Radar](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-radar/main/README.md): Curated, evidence-aware AI for Mathematics research intelligence with structured data, deterministic validation, a static public site, and a v0.1.0 editorial baseline.
+- [AI4Math Radar](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-radar/main/README.md): Independently maintained AI for Mathematics research intelligence derived from the AIHOT open-source framework, with structured data, deterministic validation, a static public site, and a v0.1.0 editorial baseline.
 - [Agentic Simulation Lab](https://raw.githubusercontent.com/Charlie-Wang-03/agentic-simulation-lab/main/README.md): Reproducible Ansys-based engineering simulation workflows orchestrated by AI agents and evaluated with explicit physics validation.
 - [Sightline](https://raw.githubusercontent.com/Charlie-Wang-03/dsh-sightline/main/README.md): Developer tooling for comparing workspace instruction surfaces across DeepSeek Harness, Codex, and Claude Code.
 - [jev-testbench](https://raw.githubusercontent.com/Charlie-Wang-03/jev-testbench/main/README.md): Auditable Jev testbench with append-only evidence, preregistered experiments, and a frozen evidence release.
@@ -36,3 +36,4 @@ Use the canonical profile files for identity and current positioning. Use each l
 
 - [GitHub profile](https://github.com/Charlie-Wang-03): Human-facing GitHub profile and contribution activity.
 - [AI4Math Chronicle public site](https://charlie-wang-03.github.io/ai4math-chronicle/en/): Public web interface for the AI4Math Chronicle.
+- [AI4Math Radar public site](https://charlie-wang-03.github.io/ai4math-radar/): Public static research-intelligence interface for AI4Math Radar.
