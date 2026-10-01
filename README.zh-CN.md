@@ -52,7 +52,7 @@
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
   <p><strong>面向 AI for Mathematics 的精选、证据分层与持续追踪研究情报项目。</strong></p>
-  <p>结合明确的筛选规则、结构化 AI4Math 数据、确定性校验和静态公开站点；v0.1.0 是首个可引用的编辑基线。</p>
+  <p>项目独立维护，并基于 AIHOT 开源框架演化；结合明确的筛选规则、结构化 AI4Math 数据、确定性校验和静态公开站点。v0.1.0 是首个可引用的编辑基线。</p>
   <p><code>AI4Math</code> · <code>研究情报</code> · <code>证据治理</code> · <code>TypeScript</code></p>
 </td>
 </tr>
