@@ -85,6 +85,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🤝 开源贡献
@@ -93,6 +94,7 @@
 - **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — [开放中的 PR](https://github.com/DeepMathLLM/Moonshine/pull/4)，围绕工具执行日志与中断恢复提升 runtime 的崩溃安全性。
 - **[KKKKhazix / AIHOT](https://github.com/KKKKhazix/AIHOT)** — 已合并工作涉及事件关系评测、SelectBench 语义稳定性与 MCP smoke contract；用于公开 weekly reports API 的 [PR #56](https://github.com/KKKKhazix/AIHOT/pull/56) 仍在评审中。
 - **[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)** — [已合并 PR #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029)，通过 typed adapter 统一 LLM usage telemetry 的不同数据形态。
+
 ---
 
 ## 🔬 研究兴趣
