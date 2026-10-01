@@ -16,7 +16,7 @@ M.S. student in Applied Mathematics · Fudan University
 
 I am an Applied Mathematics M.S. student at Fudan University. My current interests include Scientific Machine Learning (Scientific ML), neural operators and PDEs, AI for Science & Mathematics (AI4Science / AI4Math), and practical AI systems.
 
-Alongside research, I maintain public projects and contribute upstream to open-source software, with current work spanning AI agents and agent reliability, reproducible research workflows, scientific computing, and developer tooling.
+Alongside research, I maintain public projects and contribute upstream to open-source software, with current work spanning AI agents and agent reliability, research-intelligence and reproducible research workflows, scientific computing, and developer tooling.
 
 ---
 
@@ -52,37 +52,49 @@ Alongside research, I maintain public projects and contribute upstream to open-s
   <p><code>AI4Math</code> · <code>Open Data</code> · <code>Evidence</code> · <code>Astro</code></p>
 </td>
 <td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
+  <p><strong>A curated, evidence-aware research-intelligence project for AI for Mathematics.</strong></p>
+  <p>Combines an explicit selection policy, structured AI4Math data, deterministic validation, and a static public site. v0.1.0 is the first citable editorial baseline.</p>
+  <p><code>AI4Math</code> · <code>Research Intelligence</code> · <code>Evidence</code> · <code>TypeScript</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/agentic-simulation-lab">Agentic Simulation Lab</a></h3>
   <p><strong>Agent-orchestrated, reproducible engineering simulation workflows with explicit physics validation.</strong></p>
   <p>A public lab for learning and building trustworthy automation around Ansys-based simulation workflows, with solver-derived evidence and structured validation.</p>
   <p><code>Scientific Computing</code> · <code>AI Agents</code> · <code>Simulation</code> · <code>Reproducibility</code></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
   <p><strong>Compare the workspace instruction surfaces seen by DeepSeek Harness, Codex, and Claude Code.</strong></p>
   <p>A small developer tool that makes cross-agent instruction discovery differences visible, with explicit observed/predicted evidence semantics. The v0.1 release is available on npm and GitHub Releases.</p>
   <p><code>Developer Tools</code> · <code>Coding Agents</code> · <code>DeepSeek Harness</code> · <code>TypeScript</code></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/jev-testbench">jev-testbench</a></h3>
   <p><strong>An auditable testbench for a typed probabilistic decision primitive.</strong></p>
-  <p>Measures TypeSafe Jev through append-only evidence and preregistered experiments, with a frozen v0.1 evidence release and an explicit null result rather than a polished success narrative.</p>
+  <p>Measures TypeSafe Jev through append-only evidence and preregistered experiments, with a frozen evidence release and an explicit null result rather than a polished success narrative.</p>
   <p><code>Agentic Engineering</code> · <code>Evaluation</code> · <code>Reproducibility</code> · <code>Python</code></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/agentic-engineering-preferences">Agentic Engineering Preferences</a></h3>
+  <p><strong>Reusable engineering preferences, decision rules, and project conventions for AI-assisted software development.</strong></p>
+  <p>Designed as secondary context for coding agents, with project-local instructions taking precedence and selected public examples showing where the preferences are used in practice.</p>
+  <p><code>Agentic Engineering</code> · <code>Coding Agents</code> · <code>Human-AI Collaboration</code> · <code>AGENTS.md</code></p>
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🤝 Open-source Contributions
 
 - **[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence)** — merged work on deterministic regression/integration testing, resumable-workflow provenance, and lifecycle integrity; further verification/controller hardening remains under review.
 - **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — [open PR](https://github.com/DeepMathLLM/Moonshine/pull/4) for crash-safe tool execution journaling and interrupted-turn recovery.
+- **[KKKKhazix / AIHOT](https://github.com/KKKKhazix/AIHOT)** — merged work on pairwise event-relation evaluation, SelectBench semantics, and MCP smoke-contract checks; [PR #56](https://github.com/KKKKhazix/AIHOT/pull/56) for weekly-report API exposure is under review.
 - **[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)** — [merged PR #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029) normalizing LLM usage telemetry through a typed adapter.
-- **[mcp-migrate](https://github.com/dheerajjha/mcp-migrate)** — [merged PR #279](https://github.com/dheerajjha/mcp-migrate/pull/279) hardening Python fixer output so comment-out migrations do not leave empty function bodies.
-
 ---
 
 ## 🔬 Research Interests
