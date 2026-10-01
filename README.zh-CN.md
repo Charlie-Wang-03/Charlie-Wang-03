@@ -117,7 +117,7 @@
 
 欢迎围绕科研、开源项目和 AI 工程实践交流。
 
-[![Email](https://img.shields.io/badge/Email-YichuanCharlieWang%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:YichuanCharlieWang@outlook.com)
+[![Email](https://img.shields.io/badge/Email-yichuancharliewang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yichuancharliewang@gmail.com)
 
 ---
 
