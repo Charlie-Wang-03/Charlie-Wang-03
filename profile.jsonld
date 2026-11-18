@@ -51,10 +51,20 @@
   ],
   "subjectOf": [
     {
+      "@type": "CreativeWork",
+      "name": "AI4Math Chronicle",
+      "url": "https://github.com/Charlie-Wang-03/ai4math-chronicle"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Creative-Intelligence upstream contribution on resumable mathematical discovery",
+      "url": "https://github.com/DeepMathLLM/Creative-Intelligence/pull/7"
+    },
+    {
       "@type": "SoftwareSourceCode",
-      "name": "Agentic Simulation Lab",
-      "url": "https://github.com/Charlie-Wang-03/agentic-simulation-lab",
-      "programmingLanguage": "Python"
+      "name": "AI4Math Radar",
+      "url": "https://github.com/Charlie-Wang-03/ai4math-radar",
+      "programmingLanguage": "TypeScript"
     },
     {
       "@type": "SoftwareSourceCode",
@@ -67,17 +77,6 @@
       "name": "Zotero Mirror",
       "url": "https://github.com/Charlie-Wang-03/zotero-mirror",
       "programmingLanguage": "Python"
-    },
-    {
-      "@type": "SoftwareSourceCode",
-      "name": "AI4Math Radar",
-      "url": "https://github.com/Charlie-Wang-03/ai4math-radar",
-      "programmingLanguage": "TypeScript"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "AI4Math Chronicle",
-      "url": "https://github.com/Charlie-Wang-03/ai4math-chronicle"
     },
     {
       "@type": "SoftwareSourceCode",
