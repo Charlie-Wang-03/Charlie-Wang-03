@@ -28,6 +28,7 @@ All notable changes to this repository will be documented here.
 
 ### Changed
 
+- Featured the simulation lab, Sightline, Zotero Mirror, and AI4Math Radar on the bilingual profile and linked reviewed upstream changes directly.
 - Reduced duplication between `AGENTS.md` and `MAINTENANCE.md` so the root agent contract stays concise while detailed profile-maintenance guidance remains in the playbook.
 - Hardened Markdown CI with read-only permissions, immutable Action references, and disabled checkout credential persistence.
 - Simplified the current-focus section to better reflect an exploratory stage.

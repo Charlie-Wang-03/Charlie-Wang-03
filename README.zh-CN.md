@@ -14,7 +14,7 @@
 
 ## 👨‍💻 关于我
 
-我目前在复旦大学应用数学系攻读硕士，主要关注科学机器学习（Scientific Machine Learning）、神经算子与 PDE，以及 AI for Science & Mathematics（AI4Science / AI4Math）等方向，也在探索面向科研与工程场景的实用 AI 系统。除科研外，我持续维护公开项目，并参与自己实际使用的开源软件上游贡献，目前的实践涉及 AI Agent 与可靠性、研究情报与可复现科研工作流、科学计算和开发工具。
+我在复旦大学攻读应用数学硕士，开发 Coding Agent 工具和可复现的科研工作流。研究上，我关注神经算子与偏微分方程。
 
 ---
 
@@ -44,56 +44,46 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-chronicle">AI4Math Chronicle</a></h3>
-  <p><strong>一个以时间线为核心、基于证据的 AI for Mathematics 重大进展档案。</strong></p>
-  <p>持续维护中英双语公开网站、明确的编辑与核验方法、机器可读数据，以及可引用的版本快照。</p>
-  <p><code>AI4Math</code> · <code>开放数据</code> · <code>证据驱动</code> · <code>Astro</code></p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
-  <p><strong>面向 AI for Mathematics 的精选、证据分层与持续追踪研究情报项目。</strong></p>
-  <p>项目独立维护，并基于 AIHOT 开源框架演化；结合明确的筛选规则、结构化 AI4Math 数据、确定性校验和静态公开站点。v0.1.0 是首个可引用的编辑基线。</p>
-  <p><code>AI4Math</code> · <code>研究情报</code> · <code>证据治理</code> · <code>TypeScript</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/agentic-simulation-lab">Agentic Simulation Lab</a></h3>
-  <p><strong>尝试把工程仿真整理成由 Agent 编排、可复现并带有明确物理验证的工作流。</strong></p>
-  <p>这是一个围绕 Ansys 的公开实验型项目，重点不是替代求解器，而是把仿真过程、验证依据和结果证据组织得更清楚、更容易复现。</p>
-  <p><code>科学计算</code> · <code>AI Agent</code> · <code>工程仿真</code> · <code>可复现性</code></p>
+  <p><strong>用 Coding Agent 编排可复现的 Ansys 仿真。</strong></p>
+  <p>悬臂梁案例可对照求解器输出的梁端挠度（0.100143 mm）和解析值（0.100000 mm）。</p>
+  <p><a href="https://github.com/Charlie-Wang-03/agentic-simulation-lab/blob/main/docs/BENCHMARKS.md">查看案例</a></p>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
-  <p><strong>比较 DeepSeek Harness、Codex 与 Claude Code 在同一工作区中看到的指令来源。</strong></p>
-  <p>用于把不同 Coding Agent 的指令发现差异显式展示出来，并区分真实观测与规则推断。v0.1 已发布到 npm 和 GitHub Releases。</p>
-  <p><code>开发工具</code> · <code>Coding Agent</code> · <code>DeepSeek Harness</code> · <code>TypeScript</code></p>
+  <p><strong>查看不同 Coding Agent 在同一仓库中读取哪些指令。</strong></p>
+  <p>Sightline 从 DeepSeek Harness 会话读取实际记录，并根据 Codex 和 Claude Code 的规则推算两者会加载的指令。</p>
+  <p><a href="https://github.com/Charlie-Wang-03/dsh-sightline/blob/main/tests/dsh-observed.integration.test.ts">查看集成测试</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/jev-testbench">jev-testbench</a></h3>
-  <p><strong>一个用来测试「类型化概率决策原语」的可审计实验台。</strong></p>
-  <p>项目通过只追加的证据记录和预注册实验测量 TypeSafe Jev，并保留冻结证据版本和明确的负结果，而不是把实验包装成预设成功。</p>
-  <p><code>Agentic Engineering</code> · <code>评估</code> · <code>可复现性</code> · <code>Python</code></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/zotero-mirror">Zotero Mirror</a></h3>
+  <p><strong>把 Zotero 文献库同步成 AI 工具可读的版本化资料。</strong></p>
+  <p>用户通过模板创建自己的私有仓库。隔离测试记录了一条合成文献从创建、回读、修改到清理的过程。</p>
+  <p><a href="https://github.com/Charlie-Wang-03/zotero-mirror/blob/main/docs/VALIDATION.md">查看验证记录</a></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/agentic-engineering-preferences">Agentic Engineering Preferences</a></h3>
-  <p><strong>记录 AI 辅助软件开发中的工程偏好、决策规则与项目约定。</strong></p>
-  <p>作为 Coding Agent 的可复用辅助上下文使用，始终以目标仓库自己的规则为先，并保留若干公开实践示例。</p>
-  <p><code>Agentic Engineering</code> · <code>Coding Agent</code> · <code>人机协作</code> · <code>AGENTS.md</code></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
+  <p><strong>跟踪 AI4Math 领域值得关注的新进展。</strong></p>
+  <p>项目基于 AIHOT。我维护条目筛选标准和来源记录，并通过 GitHub Pages 发布经过核验的内容。</p>
+  <p><a href="https://charlie-wang-03.github.io/ai4math-radar/">浏览研究动态</a></p>
 </td>
 </tr>
 </table>
+
+- [AI4Math Chronicle](https://github.com/Charlie-Wang-03/ai4math-chronicle) — 双语 AI4Math 里程碑时间线。
+- [SLURM Dashboard](https://github.com/Charlie-Wang-03/slurm-dashboard) — 把集群与作业数据对应到实际命令的自托管教学面板。
 
 ---
 
 ## 🤝 开源贡献
 
-- **[DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence)** — 已合并工作主要涉及确定性回归/集成测试、可恢复工作流的输入溯源和生命周期完整性；进一步的核验与 controller 加固仍在评审中。
-- **[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine)** — [开放中的 PR](https://github.com/DeepMathLLM/Moonshine/pull/4)，围绕工具执行日志与中断恢复提升 runtime 的崩溃安全性。
-- **[KKKKhazix / AIHOT](https://github.com/KKKKhazix/AIHOT)** — 已合并工作涉及事件关系评测、SelectBench 语义稳定性与 MCP smoke contract；用于公开 weekly reports API 的 [PR #56](https://github.com/KKKKhazix/AIHOT/pull/56) 仍在评审中。
-- **[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)** — [已合并 PR #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029)，通过 typed adapter 统一 LLM usage telemetry 的不同数据形态。
+- [DeepMathLLM / Creative-Intelligence #7](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7)（已合并）改进数学探索工作流的状态处理，使任务可以在中断后恢复。
+- [OpenHands / software-agent-sdk #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029)（已合并）用类型化适配器统一不同格式的 LLM 用量记录。
+- [Harbor #3491](https://github.com/harbor-framework/harbor/pull/3491)（已合并）修复超时归因，分别报告验证环境启动超时和验证器执行超时。
+- [AIHOT #161](https://github.com/KKKKhazix/AIHOT/pull/161)（已合并）将事件归组结果和完成回执放入同一数据库事务，保证两者一起提交或回滚。
+- [DeepMathLLM / Moonshine #4](https://github.com/DeepMathLLM/Moonshine/pull/4)（在审）提出工具执行日志方案，支持中断后的会话恢复。
 
 ---
 
@@ -115,7 +105,7 @@
 
 ## 📫 联系方式
 
-欢迎围绕科研、开源项目和 AI 工程实践交流。
+欢迎联系我交流 Agent 开发实习、科研工具或开源合作。
 
 [![Email](https://img.shields.io/badge/Email-yichuancharliewang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yichuancharliewang@gmail.com)
 
