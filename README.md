@@ -14,7 +14,9 @@ M.S. student in Applied Mathematics · Fudan University
 
 ## 👨‍💻 About
 
-I’m an applied mathematics master’s student at Fudan University. I’m interested in how neural operators approximate solutions to partial differential equations. In my open-source work, I trace mathematical claims back to their sources and build tools to inspect what coding agents do.
+I am an Applied Mathematics M.S. student at Fudan University. My current interests include Scientific Machine Learning (Scientific ML), neural operators and PDEs, AI for Science & Mathematics (AI4Science / AI4Math), and practical AI systems.
+
+Alongside research, I maintain public projects and contribute upstream to open-source software, with current work spanning AI agents and agent reliability, research-intelligence tooling, reproducible research workflows, scientific computing, and developer tooling.
 
 ---
 
@@ -45,35 +47,46 @@ I’m an applied mathematics master’s student at Fudan University. I’m inter
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/ai4math-chronicle">AI4Math Chronicle</a></h3>
-  <p><strong>A bilingual timeline of milestones in AI for mathematics.</strong></p>
-  <p>I link each entry to its sources and record which claims have been checked.</p>
-  <p><a href="https://charlie-wang-03.github.io/ai4math-chronicle/en/">Browse the timeline</a></p>
+  <p><strong>A timeline-first, evidence-backed archive of major milestones in AI for Mathematics.</strong></p>
+  <p>A continuously maintained bilingual project with a public site, explicit editorial and verification methodology, machine-readable data, and citable releases.</p>
+  <p><code>AI4Math</code> · <code>Open Data</code> · <code>Evidence</code> · <code>Astro</code></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
-  <p><strong>Inspect which instructions different coding agents see in the same repository.</strong></p>
-  <p>Sightline reads DeepSeek Harness session events and predicts instruction discovery for Codex and Claude Code from their rules.</p>
-  <p><a href="https://github.com/Charlie-Wang-03/dsh-sightline/blob/main/tests/dsh-observed.integration.test.ts">Integration test</a></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
+  <p><strong>A curated, evidence-aware research-intelligence project for AI for Mathematics.</strong></p>
+  <p>Independently maintained and derived from the AIHOT open-source framework; combines an explicit selection policy, structured AI4Math data, deterministic validation, and a static public site. v0.1.0 is the first citable editorial baseline.</p>
+  <p><code>AI4Math</code> · <code>Research Intelligence</code> · <code>Evidence</code> · <code>TypeScript</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/zotero-mirror">Zotero Mirror</a></h3>
-  <p><strong>Give AI tools a versioned view of a Zotero library.</strong></p>
-  <p>A reusable template syncs literature into a private GitHub repository. Isolated tests cover creating, reading back, updating and removing a synthetic item.</p>
-  <p><a href="https://github.com/Charlie-Wang-03/zotero-mirror/blob/main/docs/VALIDATION.md">Validation notes</a></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
+  <p><strong>Compare the workspace instruction surfaces seen by DeepSeek Harness, Codex, and Claude Code.</strong></p>
+  <p>A small developer tool that makes cross-agent instruction discovery differences visible, with explicit observed/predicted evidence semantics. The v0.1 release is available on npm and GitHub Releases.</p>
+  <p><code>Developer Tools</code> · <code>Coding Agents</code> · <code>DeepSeek Harness</code> · <code>TypeScript</code></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
-  <p><strong>Follow selected developments in AI for Mathematics.</strong></p>
-  <p>I maintain the selection criteria and source records for this AIHOT-derived project. Reviewed entries are published on GitHub Pages.</p>
-  <p><a href="https://charlie-wang-03.github.io/ai4math-radar/">Read the radar</a></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/zotero-mirror">Zotero Mirror</a></h3>
+  <p><strong>A versioned Zotero library for AI-assisted research.</strong></p>
+  <p>A reusable template syncs references, notes and annotations into a private GitHub repository. Zotero remains the source of record.</p>
+  <p><code>Zotero</code> · <code>Research Tools</code> · <code>GitHub Actions</code> · <code>Python</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/slurm-dashboard">SLURM Dashboard</a></h3>
+  <p><strong>A teaching dashboard for new SLURM users.</strong></p>
+  <p>Cluster and GPU views show the shell commands behind each result so users can reproduce a query in their own terminal.</p>
+  <p><code>SLURM</code> · <code>GPU Monitoring</code> · <code>Scientific Computing</code> · <code>Python</code></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepMathLLM/Creative-Intelligence/pull/7">Creative-Intelligence · Upstream contribution</a></h3>
+  <p><strong>Recovery checks for mathematical discovery runs.</strong></p>
+  <p>My merged contribution checks for duplicate research objects and flags verified results whose archives are missing when a run resumes.</p>
+  <p><code>AI4Math</code> · <code>Research Agents</code> · <code>State Validation</code> · <code>Open Source</code></p>
 </td>
 </tr>
 </table>
-
-- [Chronicle case study](https://charlie-wang-03.github.io/ai4math-chronicle/en/events/axiom-finite-simple-groups-lean/) — The exact statement Axiom reports formalizing in Lean for the classification of finite simple groups.
-- [SLURM Dashboard](https://github.com/Charlie-Wang-03/slurm-dashboard) — A self-hosted teaching dashboard that pairs cluster and job data with the commands behind them.
 
 ---
 

@@ -14,7 +14,7 @@
 
 ## 👨‍💻 关于我
 
-我在复旦大学攻读应用数学硕士，关注神经算子如何逼近偏微分方程的解。我做开源项目时，喜欢追溯一项数学结论的原始证据，也喜欢写工具，弄清编程智能体在运行时究竟做了什么。
+我目前在复旦大学应用数学系攻读硕士，主要关注科学机器学习（Scientific Machine Learning）、神经算子与 PDE，以及 AI for Science & Mathematics（AI4Science / AI4Math）等方向，也在探索面向科研与工程场景的实用 AI 系统。除科研外，我持续维护公开项目，并参与自己实际使用的开源软件上游贡献，目前的实践涉及 AI Agent 与可靠性、研究情报与可复现科研工作流、科学计算和开发工具。
 
 ---
 
@@ -45,35 +45,46 @@
 <tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Charlie-Wang-03/ai4math-chronicle">AI4Math Chronicle</a></h3>
-  <p><strong>记录 AI 参与数学研究的里程碑，提供中英双语时间线。</strong></p>
-  <p>我为每条记录整理原始来源，并注明哪些结论已经过核验。</p>
-  <p><a href="https://charlie-wang-03.github.io/ai4math-chronicle/zh-CN/">浏览时间线</a></p>
+  <p><strong>一个以时间线为核心、基于证据的 AI for Mathematics 重大进展档案。</strong></p>
+  <p>持续维护中英双语公开网站、明确的编辑与核验方法、机器可读数据，以及可引用的版本快照。</p>
+  <p><code>AI4Math</code> · <code>开放数据</code> · <code>证据驱动</code> · <code>Astro</code></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
-  <p><strong>查看不同 Coding Agent 在同一仓库中读取哪些指令。</strong></p>
-  <p>Sightline 从 DeepSeek Harness 会话读取实际记录，并根据 Codex 和 Claude Code 的规则推算两者会加载的指令。</p>
-  <p><a href="https://github.com/Charlie-Wang-03/dsh-sightline/blob/main/tests/dsh-observed.integration.test.ts">查看集成测试</a></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
+  <p><strong>面向 AI for Mathematics 的精选、证据分层与持续追踪研究情报项目。</strong></p>
+  <p>项目独立维护，并基于 AIHOT 开源框架演化；结合明确的筛选规则、结构化 AI4Math 数据、确定性校验和静态公开站点。v0.1.0 是首个可引用的编辑基线。</p>
+  <p><code>AI4Math</code> · <code>研究情报</code> · <code>证据治理</code> · <code>TypeScript</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/zotero-mirror">Zotero Mirror</a></h3>
-  <p><strong>把 Zotero 文献库同步成 AI 工具可读的版本化资料。</strong></p>
-  <p>用户通过模板创建自己的私有仓库。隔离测试记录了一条合成文献从创建、回读、修改到清理的过程。</p>
-  <p><a href="https://github.com/Charlie-Wang-03/zotero-mirror/blob/main/docs/VALIDATION.md">查看验证记录</a></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/dsh-sightline">Sightline</a></h3>
+  <p><strong>比较 DeepSeek Harness、Codex 与 Claude Code 在同一工作区中看到的指令来源。</strong></p>
+  <p>用于把不同 Coding Agent 的指令发现差异显式展示出来，并区分真实观测与规则推断。v0.1 已发布到 npm 和 GitHub Releases。</p>
+  <p><code>开发工具</code> · <code>Coding Agent</code> · <code>DeepSeek Harness</code> · <code>TypeScript</code></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Charlie-Wang-03/ai4math-radar">AI4Math Radar</a></h3>
-  <p><strong>跟踪 AI4Math 领域值得关注的新进展。</strong></p>
-  <p>项目基于 AIHOT。我维护条目筛选标准和来源记录，并通过 GitHub Pages 发布经过核验的内容。</p>
-  <p><a href="https://charlie-wang-03.github.io/ai4math-radar/">浏览研究动态</a></p>
+  <h3><a href="https://github.com/Charlie-Wang-03/zotero-mirror">Zotero Mirror</a></h3>
+  <p><strong>面向 AI 辅助科研的 Zotero 文献库镜像。</strong></p>
+  <p>通过模板把文献条目、笔记和批注同步到私有 GitHub 仓库，保留版本记录，原始资料仍由 Zotero 管理。</p>
+  <p><code>Zotero</code> · <code>科研工具</code> · <code>GitHub Actions</code> · <code>Python</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Charlie-Wang-03/slurm-dashboard">SLURM Dashboard</a></h3>
+  <p><strong>面向 SLURM 初学者的集群教学面板。</strong></p>
+  <p>面板展示作业队列和 GPU 使用情况，并列出对应的命令，方便使用者在自己的终端复现查询。</p>
+  <p><code>SLURM</code> · <code>GPU 监控</code> · <code>科学计算</code> · <code>Python</code></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepMathLLM/Creative-Intelligence/pull/7">Creative-Intelligence · 上游贡献</a></h3>
+  <p><strong>为数学探索任务补充中断恢复检查。</strong></p>
+  <p>我提交的改动已合并。任务恢复时，程序会检查研究对象是否重复，以及标为已验证的结果是否缺失归档。</p>
+  <p><code>AI4Math</code> · <code>科研 Agent</code> · <code>状态校验</code> · <code>开源贡献</code></p>
 </td>
 </tr>
 </table>
-
-- [Chronicle 条目示例](https://charlie-wang-03.github.io/ai4math-chronicle/zh-CN/events/axiom-finite-simple-groups-lean/) — 查看 Axiom 报告在 Lean 中证明的有限单群分类命题及其适用范围。
-- [SLURM Dashboard](https://github.com/Charlie-Wang-03/slurm-dashboard) — 把集群与作业数据对应到实际命令的自托管教学面板。
 
 ---
 
