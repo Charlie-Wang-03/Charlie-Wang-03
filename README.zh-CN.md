@@ -90,11 +90,11 @@
 
 ## 🤝 开源贡献
 
-- [DeepMathLLM / Creative-Intelligence #7](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7)（已合并）为数学探索工作流补充恢复检查，识别重复对象和已标为验证却缺失归档的结果。
-- [OpenHands / software-agent-sdk #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029)（已合并）用类型化适配器统一不同格式的 LLM 用量记录。
-- [Harbor #3491](https://github.com/harbor-framework/harbor/pull/3491)（已合并）修复超时归因，分别报告验证环境启动超时和验证器执行超时。
-- [AIHOT #161](https://github.com/KKKKhazix/AIHOT/pull/161)（已合并）将事件归组结果和完成回执放入同一数据库事务，保证两者一起提交或回滚。
-- [DeepMathLLM / Moonshine #4](https://github.com/DeepMathLLM/Moonshine/pull/4)（在审）提出工具执行日志方案，支持中断后的会话恢复。
+- **OpenHands SDK · 模型用量统计**　两种 LLM 接口用不同字段返回 token 用量。我把分散在四处的读取逻辑收拢到一个适配器，让监控指标、调用链和日志对同一次模型调用使用同一份计数。 [已合并 #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029)
+- **Creative-Intelligence · 科研 Agent 断点恢复**　数学探索任务中断后，程序可能再次接收同名对象，或沿用归档已被改动的结果。我加入重名检查和文件校验，让任务在继续前识别这些问题。 [已合并 #7](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7)
+- **Harbor · Agent 评测**　验证环境还在启动时发生的超时，曾被记作验证器执行超时。我修正了错误归类，并为两个阶段补上回归测试。工程师可以从报告判断应排查环境启动还是验证过程。 [已合并 #3491](https://github.com/harbor-framework/harbor/pull/3491)
+- **AIHOT · 模型调用重试**　事件归组结果可能已经写入，但对应的模型调用仍显示未完成。我让两项记录在同一数据库事务中提交。故障注入测试表明，重试时能复用已有回复，省去一次模型调用。 [已合并 #161](https://github.com/KKKKhazix/AIHOT/pull/161)
+- **Moonshine · 工具调用恢复**　工具可能已经执行，Agent 却在结果写入前中断。我提出在调用前记录执行意图，恢复时若无法确认上次调用的结果，就暂停后续调用，避免重复执行外部操作。 [在审 #4](https://github.com/DeepMathLLM/Moonshine/pull/4)
 
 ---
 
