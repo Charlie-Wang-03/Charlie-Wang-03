@@ -28,6 +28,7 @@ All notable changes to this repository will be documented here.
 
 ### Changed
 
+- Restored the original bilingual profile layout, project cards, badges, animated header, and summary footer around the updated portfolio content.
 - Led both profile READMEs with AI4Math Chronicle and a finite simple group classification example. Highlighted a merged mathematical discovery contribution alongside five personal projects and synchronized the structured profile.
 - Featured the simulation lab, Sightline, Zotero Mirror, and AI4Math Radar on the bilingual profile and linked reviewed upstream changes directly.
 - Reduced duplication between `AGENTS.md` and `MAINTENANCE.md` so the root agent contract stays concise while detailed profile-maintenance guidance remains in the playbook.
