@@ -92,11 +92,11 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 
 ## 🤝 Open-source Contributions
 
-- [DeepMathLLM / Creative-Intelligence #7](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7) (merged) — Added checks for duplicate objects and missing result archives when a mathematical discovery run resumes.
-- [OpenHands / software-agent-sdk #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029) (merged) — Normalized LLM usage telemetry through a typed adapter.
-- [Harbor #3491](https://github.com/harbor-framework/harbor/pull/3491) (merged) — Distinguished verifier environment startup timeouts from timeouts during verification.
-- [AIHOT #161](https://github.com/KKKKhazix/AIHOT/pull/161) (merged) — Committed event grouping and its completion receipt in the same database transaction.
-- [DeepMathLLM / Moonshine #4](https://github.com/DeepMathLLM/Moonshine/pull/4) (open) — Proposed a tool execution journal for recovery after an interrupted turn.
+- **OpenHands SDK · Model usage tracking** — Two LLM APIs report token counts under different field names. I replaced four separate lookups with one typed adapter, so metrics, traces and logs use the same count for each model call. [Merged #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029)
+- **Creative-Intelligence · Research agent recovery** — A resumed discovery run could accept a previously tried name or trust a result whose archive had changed. I added name and file-integrity checks. The runner now flags both cases before work continues. [Merged #7](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7)
+- **Harbor · Agent evaluation** — Evaluation reports could blame the verifier for a timeout before it had started. I fixed the error handling and added regression tests for both phases, so the report tells engineers whether to investigate environment startup or verification. [Merged #3491](https://github.com/harbor-framework/harbor/pull/3491)
+- **AIHOT · Reliable LLM retries** — An interruption could save an event grouping while leaving the model call marked incomplete. I made both writes commit together. Fault-injection tests showed retries reused the saved response without a second model call. [Merged #161](https://github.com/KKKKhazix/AIHOT/pull/161)
+- **Moonshine · Tool execution after a crash** — A tool can finish just before an agent crashes, leaving its outcome unknown on restart. I proposed recording each call before dispatch and blocking further calls when the outcome is uncertain, to avoid repeating an external action. [Open #4](https://github.com/DeepMathLLM/Moonshine/pull/4)
 
 ---
 

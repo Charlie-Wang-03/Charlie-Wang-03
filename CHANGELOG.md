@@ -28,6 +28,7 @@ All notable changes to this repository will be documented here.
 
 ### Changed
 
+- Expanded the bilingual upstream contribution summaries with the engineering problem, individual change, and outcome for each PR.
 - Restored the original full About text and three-row project card layout in both languages, with the six selected projects and upstream work.
 - Restored the original bilingual profile layout, project cards, badges, animated header, and summary footer around the updated portfolio content.
 - Led both profile READMEs with AI4Math Chronicle and a finite simple group classification example. Highlighted a merged mathematical discovery contribution alongside five personal projects and synchronized the structured profile.
