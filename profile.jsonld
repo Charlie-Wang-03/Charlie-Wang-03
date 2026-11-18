@@ -51,17 +51,6 @@
   ],
   "subjectOf": [
     {
-      "@type": "CreativeWork",
-      "name": "AI4Math Chronicle",
-      "url": "https://github.com/Charlie-Wang-03/ai4math-chronicle"
-    },
-    {
-      "@type": "SoftwareSourceCode",
-      "name": "AI4Math Radar",
-      "url": "https://github.com/Charlie-Wang-03/ai4math-radar",
-      "programmingLanguage": "TypeScript"
-    },
-    {
       "@type": "SoftwareSourceCode",
       "name": "Agentic Simulation Lab",
       "url": "https://github.com/Charlie-Wang-03/agentic-simulation-lab",
@@ -75,14 +64,26 @@
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "jev-testbench",
-      "url": "https://github.com/Charlie-Wang-03/jev-testbench",
+      "name": "Zotero Mirror",
+      "url": "https://github.com/Charlie-Wang-03/zotero-mirror",
       "programmingLanguage": "Python"
     },
     {
+      "@type": "SoftwareSourceCode",
+      "name": "AI4Math Radar",
+      "url": "https://github.com/Charlie-Wang-03/ai4math-radar",
+      "programmingLanguage": "TypeScript"
+    },
+    {
       "@type": "CreativeWork",
-      "name": "Agentic Engineering Preferences",
-      "url": "https://github.com/Charlie-Wang-03/agentic-engineering-preferences"
+      "name": "AI4Math Chronicle",
+      "url": "https://github.com/Charlie-Wang-03/ai4math-chronicle"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "SLURM Dashboard",
+      "url": "https://github.com/Charlie-Wang-03/slurm-dashboard",
+      "programmingLanguage": "Python"
     }
   ],
   "email": "mailto:yichuancharliewang@gmail.com"

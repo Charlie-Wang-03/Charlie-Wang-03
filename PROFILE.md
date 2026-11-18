@@ -27,38 +27,20 @@ research workflows, scientific computing, and open-source developer tooling.
 
 ## Selected public work
 
-- **[AI4Math Chronicle](https://github.com/Charlie-Wang-03/ai4math-chronicle)**
-  — a timeline-first, evidence-backed archive of major milestones in AI for
-  Mathematics, with bilingual public pages, machine-readable data, and explicit
-  editorial and verification methodology.
-- **[AI4Math Radar](https://github.com/Charlie-Wang-03/ai4math-radar)**
-  — an independently maintained AI for Mathematics research-intelligence
-  project derived from the AIHOT open-source framework, with explicit selection
-  policy, structured data, deterministic validation, a public static site, and
-  a citable v0.1.0 editorial baseline.
-- **[Agentic Simulation Lab](https://github.com/Charlie-Wang-03/agentic-simulation-lab)**
-  — reproducible Ansys-based engineering simulation workflows orchestrated by
-  AI agents and evaluated with explicit physics validation.
-- **[Sightline](https://github.com/Charlie-Wang-03/dsh-sightline)**
-  — a developer tool for comparing workspace instruction surfaces across
-  DeepSeek Harness, Codex, and Claude Code.
-- **[jev-testbench](https://github.com/Charlie-Wang-03/jev-testbench)**
-  — an auditable experimental testbench for TypeSafe Jev with append-only
-  evidence, preregistered experiments, and a frozen evidence release.
-- **[Agentic Engineering Preferences](https://github.com/Charlie-Wang-03/agentic-engineering-preferences)**
-  — a public, evolving reference for reusable engineering preferences,
-  decision rules, and project conventions in AI-assisted software development.
+- [Agentic Simulation Lab](https://github.com/Charlie-Wang-03/agentic-simulation-lab) — Run reproducible Ansys workflows with a coding agent. Compare the solver’s cantilever tip deflection (0.100143 mm) with the analytical value (0.100000 mm).
+- [Sightline](https://github.com/Charlie-Wang-03/dsh-sightline) — Inspect which instructions different coding agents see in the same repository. Sightline reads DeepSeek Harness session events and predicts instruction discovery for Codex and Claude Code from their rules.
+- [Zotero Mirror](https://github.com/Charlie-Wang-03/zotero-mirror) — Give AI tools a versioned view of a Zotero library. A reusable template syncs literature into a private GitHub repository. Isolated tests cover creating, reading back, updating and removing a synthetic item.
+- [AI4Math Radar](https://github.com/Charlie-Wang-03/ai4math-radar) — Follow selected developments in AI for Mathematics. I maintain the selection criteria and source records for this AIHOT-derived project. Reviewed entries are published on GitHub Pages.
+- [AI4Math Chronicle](https://github.com/Charlie-Wang-03/ai4math-chronicle) — Bilingual timeline of milestones in AI for Mathematics.
+- [SLURM Dashboard](https://github.com/Charlie-Wang-03/slurm-dashboard) — A self-hosted teaching dashboard that pairs cluster and job data with the commands behind them.
 
 ## Open-source activity
 
-Public upstream contributions currently highlighted on the profile include work
-in [DeepMathLLM / Creative-Intelligence](https://github.com/DeepMathLLM/Creative-Intelligence),
-[DeepMathLLM / Moonshine](https://github.com/DeepMathLLM/Moonshine),
-[KKKKhazix / AIHOT](https://github.com/KKKKhazix/AIHOT), and
-[OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk).
-
-For current contribution status and project selection, use the repository's
-[README.md](README.md).
+- [DeepMathLLM / Creative-Intelligence #7](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7) (merged) — Hardened state handling in resumable mathematical discovery workflows.
+- [OpenHands / software-agent-sdk #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029) (merged) — Normalized LLM usage telemetry through a typed adapter.
+- [Harbor #3491](https://github.com/harbor-framework/harbor/pull/3491) (merged) — Distinguished verifier environment startup timeouts from timeouts during verification.
+- [AIHOT #161](https://github.com/KKKKhazix/AIHOT/pull/161) (merged) — Committed event grouping and its completion receipt in the same database transaction.
+- [DeepMathLLM / Moonshine #4](https://github.com/DeepMathLLM/Moonshine/pull/4) (open) — Proposed a tool execution journal for recovery after an interrupted turn.
 
 ## Public profile references
 
