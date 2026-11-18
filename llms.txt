@@ -13,16 +13,15 @@ Use the canonical profile files for identity and current positioning. Use each l
 
 ## Selected public work
 
-- [Agentic Simulation Lab](https://raw.githubusercontent.com/Charlie-Wang-03/agentic-simulation-lab/main/README.md) — Run reproducible Ansys workflows with a coding agent. Compare the solver’s cantilever tip deflection (0.100143 mm) with the analytical value (0.100000 mm).
-- [Sightline](https://raw.githubusercontent.com/Charlie-Wang-03/dsh-sightline/main/README.md) — Inspect which instructions different coding agents see in the same repository. Sightline reads DeepSeek Harness session events and predicts instruction discovery for Codex and Claude Code from their rules.
-- [Zotero Mirror](https://raw.githubusercontent.com/Charlie-Wang-03/zotero-mirror/main/README.md) — Give AI tools a versioned view of a Zotero library. A reusable template syncs literature into a private GitHub repository. Isolated tests cover creating, reading back, updating and removing a synthetic item.
-- [AI4Math Radar](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-radar/main/README.md) — Follow selected developments in AI for Mathematics. I maintain the selection criteria and source records for this AIHOT-derived project. Reviewed entries are published on GitHub Pages.
-- [AI4Math Chronicle](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-chronicle/main/README.md) — Bilingual timeline of milestones in AI for Mathematics.
-- [SLURM Dashboard](https://raw.githubusercontent.com/Charlie-Wang-03/slurm-dashboard/main/README.md) — A self-hosted teaching dashboard that pairs cluster and job data with the commands behind them.
+- [AI4Math Chronicle](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-chronicle/main/README.md) — Bilingual timeline of mathematical AI milestones with primary sources and verification status.
+- [Creative-Intelligence (upstream contribution)](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7) — Merged checks for duplicate objects and missing result archives when resuming mathematical discovery runs.
+- [AI4Math Radar](https://raw.githubusercontent.com/Charlie-Wang-03/ai4math-radar/main/README.md) — AIHOT-derived feed that groups recent reports by event and links to the underlying sources.
+- [Sightline](https://raw.githubusercontent.com/Charlie-Wang-03/dsh-sightline/main/README.md) — Compares observed DeepSeek Harness instructions with predictions for Codex and Claude Code.
+- [Zotero Mirror](https://raw.githubusercontent.com/Charlie-Wang-03/zotero-mirror/main/README.md) — Template for syncing Zotero metadata, notes and annotations into a versioned private GitHub repository.
+- [SLURM Dashboard](https://raw.githubusercontent.com/Charlie-Wang-03/slurm-dashboard/main/README.md) — Self-hosted cluster dashboard that shows the shell commands behind its queue and GPU views.
 
 ## Open-source contributions
 
-- [DeepMathLLM / Creative-Intelligence #7](https://github.com/DeepMathLLM/Creative-Intelligence/pull/7) (merged) — Hardened state handling in resumable mathematical discovery workflows.
 - [OpenHands / software-agent-sdk #5029](https://github.com/OpenHands/software-agent-sdk/pull/5029) (merged) — Normalized LLM usage telemetry through a typed adapter.
 - [Harbor #3491](https://github.com/harbor-framework/harbor/pull/3491) (merged) — Distinguished verifier environment startup timeouts from timeouts during verification.
 - [AIHOT #161](https://github.com/KKKKhazix/AIHOT/pull/161) (merged) — Committed event grouping and its completion receipt in the same database transaction.
