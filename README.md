@@ -97,6 +97,7 @@ Alongside research, I maintain public projects and contribute upstream to open-s
 - **Harbor · Agent evaluation** — Evaluation reports could blame the verifier for a timeout before it had started. I fixed the error handling and added regression tests for both phases, so the report tells engineers whether to investigate environment startup or verification. [Merged #3491](https://github.com/harbor-framework/harbor/pull/3491)
 - **AIHOT · Reliable LLM retries** — An interruption could save an event grouping while leaving the model call marked incomplete. I made both writes commit together. Fault-injection tests showed retries reused the saved response without a second model call. [Merged #161](https://github.com/KKKKhazix/AIHOT/pull/161)
 - **Moonshine · Tool execution after a crash** — A tool can finish just before an agent crashes, leaving its outcome unknown on restart. I proposed recording each call before dispatch and blocking further calls when the outcome is uncertain, to avoid repeating an external action. [Open #4](https://github.com/DeepMathLLM/Moonshine/pull/4)
+- **OpenAI Codex · Desktop crash recovery** — After a Windows crash left the desktop app unable to start, I reproduced SQLite rollback error 776 on an isolated database copy, verified native recovery with integrity checks and SHA-256 comparisons, and restored the app without a reset. I shared the diagnostic evidence and startup recovery suggestions upstream. [Technical report #13971](https://github.com/openai/codex/issues/13971#issuecomment-7197099123)
 
 ---
 
