@@ -95,6 +95,7 @@
 - **Harbor · Agent 评测**　验证环境还在启动时发生的超时，曾被记作验证器执行超时。我修正了错误归类，并为两个阶段补上回归测试。工程师可以从报告判断应排查环境启动还是验证过程。 [已合并 #3491](https://github.com/harbor-framework/harbor/pull/3491)
 - **AIHOT · 模型调用重试**　事件归组结果可能已经写入，但对应的模型调用仍显示未完成。我让两项记录在同一数据库事务中提交。故障注入测试表明，重试时能复用已有回复，省去一次模型调用。 [已合并 #161](https://github.com/KKKKhazix/AIHOT/pull/161)
 - **Moonshine · 工具调用恢复**　工具可能已经执行，Agent 却在结果写入前中断。我提出在调用前记录执行意图，恢复时若无法确认上次调用的结果，就暂停后续调用，避免重复执行外部操作。 [在审 #4](https://github.com/DeepMathLLM/Moonshine/pull/4)
+- **OpenAI Codex · 桌面端崩溃恢复**　Windows 异常关机后，客户端无法启动。我在独立数据库副本中复现 SQLite 回滚错误 776，通过完整性检查与 SHA-256 校验验证原生事务恢复方案，无需重置应用便恢复了客户端，并向上游提交诊断证据与启动恢复建议。 [技术报告 #13971](https://github.com/openai/codex/issues/13971#issuecomment-7197099123)
 
 ---
 
